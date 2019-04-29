@@ -1,0 +1,164 @@
+---
+title: "A tf-idf example"
+author: "Fiona Lodge"
+date: "December 21, 2018"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Introduction
+
+The intent of this report is to demonstrate a simple example of a natural language processing technique known as the <i>tf-idf </i> statistic.  The <i>tf-idf</i> statistic is useful in a variety of contexts, ranging from anomaly detection to information retrieval.   In this example, it will be used to extract characteristic words between two sports, baseball and cricket.  
+
+To proceed, the Wikipedia pages for each sport were downloaded as <i>.txt</i> files and cleaned beforehand to remove words that were used as code.  In order to understand the code, it is recommended that the user have an intermediate knowledge of the `tidyverse` package.  I first learned of this topic through the book <b> Text Mining with R </b> (Silge, Robinson), which can be read at  https://www.tidytextmining.com/. 
+
+```{r tables, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(tidytext)
+library(jpeg)
+library(kableExtra)
+
+
+cricket <- read.delim2('C://Users//Owner//Documents//Github//tf_idfpresentationonbaseballandcricket//cricket - Wikipedia.txt', header = FALSE, fill = FALSE, col.names = 'cricket.words', stringsAsFactors = FALSE)
+baseball <- read.delim2('C://Users//Owner//Documents//Github//tf_idfpresentationonbaseballandcricket//Baseball - Wikipedia.txt', fill = FALSE, col.names = 'baseball.words', stringsAsFactors = FALSE)
+
+pal <- c("#4F628E","#7887AB", "#2E4272", "#AA8439")
+```
+
+ 
+
+```{r image, echo=FALSE, fig.align='center', fig.width=0.25}
+knitr::include_graphics('C://Users//Owner//Documents//tf_idfpresentationonbaseballandcricket//baseball_cricket.PNG')
+```
+
+### Tidy Text Vocabulary
+
+In the context of text analysis, the term <i>documents</i> is used to describe groups (most often a type of document) for analysis, and <i> token</i> is how the text is segmented. A <i>corpus</i> is a collection of documents. <i>Tokenization</i> is the process of breaking text into tokens [1].  Below I have provided some examples with their possible usecases.  Note the usecases are not necessarily simple, that is, the <i>tf-idf</i> statistic would probably be used with other data science techniques!
+
+```{r second_image, echo=FALSE, results = 'asis'}
+usecase.table <- tibble('Corpus of Documents' = c('A collection of applications for insurance that vary in structure', 'A collection of daily credit card transactions', 'A collection of student essays', 'A collection of a user\'s tweets'), 'Token Structure' = c('single words', 'codes that represent properties of the transactions', 'single words', 'single words'), 'Possible Use Case' = c('Speedy informational retrieval (locations, doctors, hospitals)', 'Detect fraudulent transactions', 'Search for atypical vocabulary that may indicate plagiarism', 'View how hobbies or interests change over time'))
+kable(usecase.table, format = 'markdown')
+```
+
+### Data Tidying
+A peek at the baseball data shows that each row has a different length.  The data is currently not `tidy`.
+
+```{r original_data}
+head(baseball)
+```
+
+The `unnest_tokens` command from the `tidytext` pacakge will tidy the text data by tokenization.  In this case the tokenization technique used is `token = words`.  
+
+```{r tokenized_data, message=FALSE, warning=FALSE}
+# tokenize
+baseball.tokenized <- 
+  baseball %>%
+  unnest_tokens(output = word, input = baseball.words, token = 'words') %>%
+  mutate(sport = 'baseball') %>%
+  select(sport, word) # just reorders the data
+
+head(baseball.tokenized)
+```
+
+The same is done for the cricket dataset and then the two datasets are combined.
+
+```{r tokenized}
+# tokenize
+cricket.tokenized <- 
+  cricket %>%
+  unnest_tokens(word, cricket.words) %>%
+  mutate(sport = 'cricket')
+
+# combine
+sports <- bind_rows(baseball.tokenized, cricket.tokenized)
+```
+
+### Relative Frequencies
+
+Often in text analysis, relative frequencies are not meaningful.  Observe the results of the most frequent words for each sport.
+
+```{r distribution_of_words, echo=TRUE}
+wordfreq <-
+  sports %>%
+  group_by(sport, word) %>%
+  summarise(N = n()) %>%
+  mutate(total = sum(N)) %>%
+  ungroup()
+
+wordfreq %>%
+  mutate(freq = N/total) %>%
+  arrange(desc(freq)) %>%
+  mutate(word = factor(word, levels = rev(unique(word)))) %>%
+  group_by(sport) %>%
+  top_n(15, freq) %>%
+  ungroup %>%
+  ggplot(aes(word, freq, fill = sport)) + 
+  scale_fill_manual(values = pal[c(1,4)])+
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sport, scales = 'free') + 
+  coord_flip()
+```
+
+There are a few words that seem important, (such as baseball, cricket, league, base, and ball), but this is not particularily useful for describing the properties of each sport.  Many of the most frequent words that occur are known as <i>stop words</i> and are not useful for analysis.  You could go about by removing all the stop words, but....
+
+### The tf-idf statistic
+
+The tf-idf statistic solves this problem by giving those frequent words less weight, known as the inverse document frequency, <i> idf </i>. It is calculated by:       
+
+<center> <i>idf</i> = <i>ln(N/df)</i> , where </center>  
+
+<center> <i>N</i> is the number of total number of documents </center>  
+<center> <i>df</i> is the number of documents containing that word</center>   
+
+As this ratio approaches 1, the idf converges to 0, which results in lower <i>idf</i> values for commonly occuring words.  
+
+The full statistic is then multiplyed by the term frequency, <i>tf</i>, the ratio of occurences of the term to the total terms in each document.
+                               <center> <i>tf-idf</i> = <i>(tf)(idf)</i> </center>  
+                                
+This is the simplest implementation of the statistic, and there are quite a few variations.    
+Before continuing with the a <i>tf-idf</i> analysis, it's recommended to view the distribution of the terms in the data because it will affect the results.  The word frequencies in the cricket and baseball data appears logarithmic, which means that it should be relatively easy to pick out the characteristic terms.  If the data was somewhat uniform, the tf-idf statistic would most likely pick up on characteristic outliers.
+
+```{r plotfreq, message=FALSE, warning=FALSE}
+ggplot(wordfreq, aes(N/total, fill = sport)) + 
+  geom_histogram(show.legend = FALSE) + 
+  scale_fill_manual(values = pal[c(2,3)])+
+  xlim(NA, 0.01) +
+  facet_wrap(~sport, ncol = 2, scales = 'free_y') 
+```
+
+The `tidytext` package contains a function that will append the `tf`, `idf`, and `tf-idf` statistics to the data frame. 
+
+```{r tf_idf}
+sports_tfidf <- 
+  wordfreq %>%
+  bind_tf_idf(term = word, document = sport, n = N)
+```
+
+Those tokens with the highest <i>tf-idf</i> are those that are characteristic to each sport.  These results are informative, for example, baseball uses 'pitchers' and cricket uses 'bowlers'. It also seems that baseball may be more popular in America (mlb, american), while cricket may be more popular worldwide (icc, nations).
+
+```{r visual_tf_idf}
+sports_tfidf %>%
+  arrange(desc(tf_idf)) %>%
+  mutate(word = factor(word, levels = rev(unique(word)))) %>%
+  group_by(sport) %>%
+  top_n(15, tf_idf) %>%
+  ungroup %>%
+  ggplot(aes(word, tf_idf, fill = sport)) + 
+  scale_fill_manual(values = pal[c(1,4)])+
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sport, scales = 'free') + 
+  coord_flip() 
+```
+
+It should be noted that in practice it may still be necessary to remove stop words and to build a method for how to deal with punctuation.  For example, 'batter's' is similiar to 'batter', and 'needed' could be classified as a stop word.  Different variation of words, such as 'bowlers' and 'bowler' could also be adjusted for.
+
+[1] Silge, J., & Robinson, D. (2019, March 23). Text Mining with R. Retrieved from https://www.tidytextmining.com/
+
+
