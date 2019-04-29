@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/491350/74fda4093bce4e9bb8163df004468443
+bundleId: https://api.rpubs.com/api/v1/document/491350/74fda4093bce4e9bb8163df004468443
+url: http://rpubs.com/RLodge/491350/edit
+when: 1556498343.61087
