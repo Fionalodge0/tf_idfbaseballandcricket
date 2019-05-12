@@ -1,0 +1,2211 @@
+{{short description|Ballgame-team sport, variant of association football}}
+{{Infobox sport
+| name       = Futsal
+| image      = Futebol Salao Pan2007.jpg
+| imagesize  = 250
+| caption    = International futsal match between [[Argentina national futsal team|Argentina]] and [[Brazil national futsal team|Brazil]] in 2007
+| union      = [[FIFA]] and [[Asociación Mundial de Fútsal|AMF]]
+| contact    = No
+| team       = 5 per side
+| category   = Indoor
+| equipment  = Futsal ball
+| venue      = Futsal field/court
+| olympic    = No
+| paralympic = No
+}}
+'''Futsal''' (also known as '''fútsal''' or '''footsal''') is a variant of [[association football]] played on a [[hardcourt|hard court]], smaller than a [[football pitch]], and mainly indoors. It can be considered a version of [[five-a-side football]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/27980859|title=World Cup 2014: Futsal – the game behind Brazil's superstars|date=2 July 2014|publisher=[[BBC]]|via=}}</ref>
+
+Futsal is played between two teams of five players each, one of whom is the [[goalkeeper]]. Unlimited substitutions are permitted. Unlike some other forms of [[indoor soccer|indoor football]], the game is played on a hard court surface delimited by lines; walls or boards are not used. Futsal is also played with a smaller, harder, low-bounce ball.<ref name="cusa">{{cite web|url=http://www.cusa.ab.ca/league.php?scriptName=LEAGUEINFO&leagueID=1000&leagueInfoID=6273|title=Comparison between FUTSAL and SOCCER|accessdate=2007-03-02 |archiveurl = https://web.archive.org/web/20070929015543/http://www.cusa.ab.ca/league.php?scriptName=LEAGUEINFO&leagueID=1000&leagueInfoID=6273 <!-- Bot retrieved archive --> |archivedate = 2007-09-29}}</ref> The surface, ball, and rules together favour ball control and passing in small spaces.<ref>{{Cite web|url=http://www.2cfutsal.com/new-to-futsal|title=New to Futsal|website=2C Futsal|language=en-us|access-date=2018-03-01}}</ref> The game's "emphasis is on improvisation, creativity and technique."<ref name="bbc">{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/skills/7143587.stm|title=How will English football develop?|accessdate=2007-12-18 | work=BBC News | date=2007-12-17}}</ref>
+
+== Naming ==
+''Futsal'' comes from Spanish ''fútbol sala'' or ''fútbol de salón'' and from Portuguese ''futebol de salão''. The term is commonly translated as "indoor football", but a more literal translation is "hall/lounge football". During the sport's second world championships held in [[Madrid]] in 1985, the Spanish name ''fútbol sala'' was used. Since then, all other names have been officially and internationally changed to ''futsal''. The naming was due to a dispute between [[Asociación Mundial de Fútsal|FIFUSA]] (the predecessor to the AMF) and [[FIFA]] over the name of ''fútbol'', FIFUSA has registered the word ''fut-sal'' in 1985 (Madrid, Spain). Since then FIFA has also started using the term futsal. The name has been translated into Italian as ''calcio a 5'' (literally ''[[5-a-side football]]'') or ''football sala'' and French as ''football de salle''.
+
+== History ==
+=== Origins ===
+"Futsal" started in 1930 when {{ill|Juan Carlos Ceriani|fr|Juan Carlos Ceriani Gravier|vertical-align=sup}}, a teacher in [[Montevideo]], [[Uruguay]], created a version of indoor football for recreation in [[YMCA]]s.{{citation needed|date=May 2014}} This new sport was originally developed for playing on basketball courts,<ref>{{cite web|url=http://www.futsal.com/index.php/history-of-futsal-|title=History of Futsal|first=|last=Administrator|work=futsal.com}}</ref> and a rule book was published in September 1933.{{citation needed|date=May 2014}} Football was already highly popular in the country and after [[Uruguay national football team|Uruguay]] won the [[1930 FIFA World Cup|1930 World Cup]] and gold medals in the [[1924 Summer Olympics|1924]] and [[1928 Summer Olympics]], it attracted even more practitioners. Ceriani's goal was to create a team game that could be played indoor or outdoor but that was similar to football.
+
+Ceriani, writing the rule book, took as examples the principles of [[Association football|football]] (the possibility to touch the ball with every part of the body except for the hands), and he took rules from other sports too: from [[basketball]] the number of team players (five) and the game duration (40 actual minutes); from [[water polo]] the rules about the goalkeeper; from [[Handball|team handball]] for the field and goal sizes.
+
+The YMCA spread the game immediately throughout [[South America]]. It was easily played by everyone, everywhere, and in any weather condition, without any difficulty, helping players to stay in shape all year round. These reasons convinced João Lotufo, a Brazilian, to bring this game to his country and adapt it to the needs of physical education.{{citation needed|date=January 2016}}
+
+Initially, the rules were not uniform. In 1956, the rules were modified by Habib Maphuz and Luiz Gonzaga de Oliveira Fernandes within the [[YMCA]] of [[São Paulo]], [[Brazil]] to allow seniors to compete.{{citation needed|date=May 2014}} Luiz de Oliveira wrote the ''Book of Rules of Fuitsal'' in 1956, then adopted also at the international level.
+
+In 1965, the {{ill|Confederación Sudamericana de Fútbol de Salón|pt|Confederação Sul-Americana de Futebol de Salão|vertical-align=sup}} (South American Futsal Confederation) was formed, consisting of [[Uruguay national futsal team|Uruguay]], [[Paraguay national futsal team|Paraguay]], [[Peru national futsal team|Peru]], [[Argentina national futsal team|Argentina]] and [[Brazil national futsal team|Brazil]].
+
+Shortly after, a unique tournament was organized. It attracted some interest in South American media, which regularly began to follow futsal. In particular, it was the journalist José Antônio Inglêz who passionately contributed to the rapid spread of the game, as well as being credited as the man who coined the name “futsal” to define the sport.
+
+=== From FIFUSA to AMF ===
+The sport began to spread across South America, and its popularity ensured the formation of a governing body in [[São Paulo]] in 1971, under the name of [[Asociación Mundial de Fútsal|Federación Internacional de Fútbol de Salón]] (FIFUSA). FIFUSA initially comprised Argentina, [[Bolivia national futsal team|Bolivia]], Brazil, Paraguay, Peru, [[Portugal national futsal team|Portugal]], and Uruguay, along with the World Championships. The new institution counted 32 participating countries and its first President was [[João Havelange]] joined by the secretary Luiz Gonzaga de Oliveira. In 1975, the Federation's chief passed to [[FIFA]], and in 1980, Januário D'Alessio Neto was elected to work to make this sport recognized worldwide by supranational bodies.
+
+The first [[AMF Futsal World Cup|FIFUSA World Championships]] were held in São Paulo, Brazil, in [[1982 FIFUSA Futsal World Cup|1982]] with the hosting Brazilian team crowned champions against [[Paraguay national futsal team|Paraguay]] in front of an audience of 12,000 people, with Uruguay placing third. The Federation then began to work to bring the big event to [[Europe]]. In [[1985 FIFUSA Futsal World Cup|1985]], the second futsal World Cup was organized in [[Madrid]], [[Spain]], where the Brazilian team won again. The event was a success, with a considerable media interest and a huge response from the audience, thanks to the Spanish TV station that filmed the event.
+
+In 1985, [[Sepp Blatter|Joseph Blatter]], at that time secretary of football's governing body, [[FIFA]], thought it was the right time to enlarge its influence and therefore also deal with indoor football. Knowing that the Federation President [[João Havelange]] was the head of FIFUSA from 1971 to 1974, the Swiss decided to summon in [[Brazil]] the world governing body of futsal: Surprisingly, the Congress voted against the unification. Due to a dispute between [[FIFA]] and [[Asociación Mundial de Fútsal|FIFUSA]] over the name of ''fútbol'', FIFUSA has registered the word ''fut-sal'' in 1985 (Madrid, [[Spain]]).
+
+FIFA wanted to promote and spread its own version of indoor football, different from the original one played in the South American countries, but they could not manage to come to an agreement with FIFUSA in the [[Rio de Janeiro]] Congress in 1989.
+
+On 2 May 1990, the Brazilian federation finally broke away from [[Asociación Mundial de Fútsal|FIFUSA]], and on 25 September, an event in [[Bogotá]], [[Colombia]] contributed to the founding of the Confederación Panamericana de Futbol de Salon (PANAFUTSAL) together with [[Paraguay national futsal team|Paraguay]], [[Colombia national futsal team|Colombia]], [[Mexico national futsal team|Mexico]], [[Uruguay national futsal team|Uruguay]], [[Argentina national futsal team|Argentina]], [[Venezuela national futsal team|Venezuela]], [[Costa Rica national futsal team|Costa Rica]], [[Puerto Rico national futsal team|Puerto Rico]], [[Bolivia national futsal team|Bolivia]], [[Ecuador national futsal team|Ecuador]], the [[Netherlands Antilles national futsal team|Netherlands Antilles]], [[Aruba national futsal team|Aruba]], and [[Canada national futsal team|Canada]].
+
+The conference held in [[Guatemala]] in 2000 between members of PANAFUTSAL and [[FIFA]] focused on the resolution of the dispute between the two institutions and on the achievement of futsal in the pure version that excited many in South America. The signing of the Protocol, however, was not followed by concrete actions. [[FIFA]] kept on promoting its version of futsal. So the PANAFUTSAL decided to create a new worldwide body for the preservation of futsal. In December 2002, the [[Asociación Mundial de Futsal]] (AMF) was founded. It is currently composed of 40 national federations and three continental bodies, one of which was FIFS.
+
+In 2002, members of PANAFUTSAL formed AMF, an international futsal governing body independent of FIFA, in reaction to the alleged stagnancy of futsal under FIFUSA.<ref name=FO>{{cite web |url=http://www.futsalonline.com/laws.html |publisher=Futsal Online|title=AMF Sets Up Committee to Study Laws of the Game|accessdate=2010-06-16}}</ref> Both FIFA and AMF continue to administer the game.<ref>{{cite web |url=http://www.futsalplanet.com/news/news-01.asp?id=1041 |publisher=Futsal Planet|title=Futsal Planet News – World Futsal Association is formed |accessdate=2008-01-31}}</ref>
+
+== Governing bodies ==
+Futsal currently has two governing bodies: [[Asociación Mundial de Fútsal]] (AMF) and [[FIFA|Fédération Internationale de Football Association]] (FIFA). AMF is the successor organization to the original governing body. FIFA later took an interest in futsal. However, talks between FIFA and AMF to reconcile governance were not successful. FIFA organizes its own separate competitions.
+
+{| class="wikitable"
+|-
+! Region
+! AMF-affiliated
+! FIFA-affiliated
+|-
+| '''World'''
+| [[Asociación Mundial de Fútsal]] (AMF)
+| [[FIFA|Fédération Internationale de Football Association]] (FIFA)
+|-
+| '''Asia'''
+| [[Confederation of Asian Futsal]] (CAFS)
+| [[Asian Football Confederation]] (AFC)
+|-
+| '''Africa'''
+| {{ill|Confédération Africaine de Futsal|pt|Confederação Africana de Futebol de Salão|vertical-align=sup}} (CAFUSA)
+| [[Confederation of African Football]] (CAF)
+|-
+| '''North America, Central America and Caribbean'''
+| {{ill|Confederation of North, Central American and Caribbean Futsal|pt|Confederação do Norte, América Central e Caribe de Futebol de Salão|vertical-align=sup}} (CONCACFUTSAL)
+| [[CONCACAF|Confederation of North, Central American and Caribbean Association Football]] (CONCACAF)
+|-
+| '''South America'''
+| {{ill|Confederação Sul-Americana de Futebol de Salão|pt|Confederação Sul-Americana de Futebol de Salão|vertical-align=sup}} (CSFS)
+{{ill|Confederación Panamericana de Futsal|pt|Confederação Pan-Americana de Futebol de Salão|vertical-align=sup}} (CPFS/PANAFUTSAL)
+| [[CONMEBOL|Confederación Sudamericana de Fútbol]] (CONMEBOL)
+|-
+| '''Oceania'''
+| [[Confederation Futsal of Oceania]] (CFSO)
+| [[Oceania Football Confederation]] (OFC)
+|-
+| '''Europe'''
+| [[European Union of Futsal]] (UEFS) until 2017 - Futsal European Federation (FEF) from 2017
+| [[UEFA|Union of European Football Associations]] (UEFA)
+|}
+
+== Rules ==
+{{See also|Comparison of association football and futsal}}
+There are currently two governing bodies: [[Asociación Mundial de Fútsal]] (AMF) and [[FIFA|Fédération Internationale de Football Association]] (FIFA). AMF and FIFA are responsible for maintaining and regulating the official rules of their respective versions of futsal.
+
+FIFA publishes its futsal rules as the 'Laws of the Game', in which each of the 17 'laws' is a thematically related collection of individual regulations. The laws define all aspects of the game, including what may be changed to suit local competitions and leagues.<ref>{{cite web |url=https://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/futsal/lawsofthegame.html |publisher=FIFA |title=Futsal Laws of the game|accessdate=2013-02-19}}</ref>
+
+Many of the laws are similar or identical to those found in association football, or reference association football in their absence (such as a section noting that there is no offside infraction in futsal.)
+
+===Summary of rules===
+;Length of the field<ref>FIFA Futsal Laws of the Game</ref>
+:minimum {{convert|25|x|16|m|abbr=on}}, maximum {{convert|42|x|25|m|abbr=on}}.
+;Ball
+:Size 4, circumference {{convert|62|-|64|cm|in|abbr=on}}, weight between {{convert|400|-|440|g|abbr=on}} at the start of the game. Dropped from a height of {{convert|2|m|abbr=on}}, the first rebound must not be lower than {{convert|50|cm|abbr=on}} or more than {{convert|65|cm|abbr=on}}.<ref>https://www.fifa.com/mm/document/affederation/generic/51/44/50/futsallawsofthegameen.pdf</ref>
+;Time
+:There are two periods of 20 minutes with time stopping at every dead ball. Between the two periods there is a break of 15 minutes. Each team may use one time-out per half, which lasts one minute. Some lower leagues and tournaments use 24 minute periods with running time.
+;Number of players
+:There are five players for each team in the field, one of them as goalkeeper, and a maximum number of 12 players that can be used each match. Substitutions are unlimited and on-the-fly.
+;Fouls
+:All direct free kicks count as accumulated fouls. A direct free kick is awarded for kicking, tripping, charging, jumping, pushing, striking, tackling, holding, spitting, and deliberate handling. Indirect free kicks, such as playing dangerously and impeding, do not count as accumulated fouls. A team is warned by the referee when they commit five accumulated fouls in a half.
+;Cards
+:A [[Penalty card#yellow card|caution]] can be shown for unsporting behavior, dissent, failure to respect the distance on a restart, excessive delay of a restart, persistent infringement, or incorrectly entering/leaving the field of play . A player or substitute can be [[Penalty card#red car|sent off]] for serious foul play, violent conduct, spitting, illegally denying an obvious goal-scoring opportunity, abusive language, and receiving a second caution. Sent-off players are ejected from the game and their team must play short for two minutes or until the other team scores a goal.
+;Free kicks
+:Taken from the spot of the infringement or on the line of the penalty area nearest the infringement (indirect only). All opponents must be at least {{convert|5|m|abbr=on}} away from the ball. The kick must be taken within four seconds or an indirect kick is awarded to the other team.
+;Kick from the second penalty mark
+:Awarded when a team commits 6 or more accumulated fouls in a half. Second penalty mark is {{convert|10|m|abbr=on}} from the goal, opponents must be behind the ball, goalkeeper must be at least {{convert|5|m|abbr=on}} away.
+;Penalty kick
+:{{convert|6|m|abbr=on}} from the center of the goal for fouls inside the {{convert|6|m|abbr=on}} goal keeper's area.
+;Goalkeeper
+:When in possession of the ball, the goalkeeper has 4 seconds to get rid of the ball. If the ball is kept too long, the referee will give an indirect kick to the other team. The goalkeeper may play freely when in the opponent's half.
+;Goalkeeper pass-back restriction
+:Once the goalkeeper has released the ball either by kicking or throwing, the goalkeeper may not touch it again until the ball goes out of play or is touched by an opponent. The sanction for violation is an indirect free kick. The goalkeeper may receive the ball freely when on the opponent's half.
+;Kick-in
+:A kick-in is used instead of a throw-in. The player must place the ball on the touchline or outside but not more than {{convert|25|cm|abbr=on}} from the place the ball when out of play. The ball must be stationary and the kick-in must be taken within 4 seconds from the time the player is ready. During kick-in, opponents must stand at least {{convert|5|m|abbr=on}} from the ball. If four seconds elapses or an illegal kick is taken, the referee will award a kick-in to the other team. It is not allowed to score directly from a kick-in: the goal is valid only if someone else touches the ball before it enters in goal.
+;Goal clearance
+:A goal clearance is used instead of a goal kick. The goalkeeper must throw the ball with their hands and it must leave the penalty area within four seconds. If goal clearance is taken illegally the goalkeeper may retry, but the referee will not reset the count. If four seconds elapses, the other team gets an indirect kick on the penalty area line.
+;Corner kick
+:The ball must be placed inside the arc nearest to the point where the ball crossed the goal line and the opponent must stand on field at least {{convert|5|m|abbr=on}} from the corner arch until the ball is in play. The corner kick must be taken within 4 seconds of being ready or else a goal clearance will be awarded to the other team. The ball is in play when it is kicked and moves.
+;Referees
+:For international matches, there must be two referees: one (first referee) is positioned on the touchline near the timekeeper table and communicates with the timekeeper, while the other (second referee) is in the opposite side of the field. At the timekeeper table there is a timekeeper and a third referee, who controls the teams' benches. In minor events, the third referees and the timekeeper are not used.
+
+=== Players, equipment and officials ===
+[[File:Brasil-WorldFutsal-2008.JPG|upright=1.35|thumb|right|The [[Brazil national futsal team]] line up before a match.]]
+There are five players on the field on each team, one of whom is the goalkeeper. The maximum number of substitutes allowed is nine (FIFA change 2012), with unlimited substitutions during the match. Substitutes can come on even when the ball is in play but the player coming off must leave the field before the substitute can enter the playing field.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law3_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 3)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072757/http://www.fifa.com/flash/lotg/futsal/en/law3_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> If a team has fewer than three players in the team, the match is abandoned and counted as a loss for the team with the lack of players.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law3.1_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 3)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080114073822/http://www.fifa.com/flash/lotg/futsal/en/law3.1_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-14}}</ref>
+
+The [[kit (association football)|kit]] is made up of a jersey or shirt with sleeves, shorts, socks, shinguards made out of metal, plastic or foam, and shoes with rubber soles. The goalkeeper is allowed to wear long trousers and a different coloured kit to distinguish themself from the other players on the team and the referee. The goalkeeper is also allowed to wear elbow pads because the surface is about as hard as a tennis court or basketball court. Jewellery is not allowed, nor are other items that could be dangerous to the player wearing the item or to other active participants.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law4_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 4)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072802/http://www.fifa.com/flash/lotg/futsal/en/law4_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref>
+
+The match is controlled by the referee, who enforces the Laws of the Game, and the first referee is the only one who can legally abandon the match because of interference from outside the field. This referee is assisted by a second referee who typically watches over the goal lines or assists the primary referee with calls on fouls or plays. The decisions made by the referees are final and can only be changed if the referees think it is necessary and play has not restarted.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law5_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 5)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072807/http://www.fifa.com/flash/lotg/futsal/en/law5_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> There is also a third referee and a timekeeper who are provided with equipment to keep a record of fouls in the match. In the event of injury to the second referee, the third referee will replace the second referee.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law7_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 7)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072817/http://www.fifa.com/flash/lotg/futsal/en/law7_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref>
+
+=== The field ===
+[[File:FutsalPitchsvg.svg|upright=1.2|thumb|A futsal field]]
+The field is made up of wood or artificial material, or similar surface, although any flat, smooth and non-abrasive material may be used. The length of the field is in the range of {{convert|38|-|42|m|ft|abbr=on}}, and the width is in the range of {{convert|20|-|25|m|ft|abbr=on}} in international matches. For other matches, it can be {{convert|25|-|42|m|ft|abbr=on}} in length, while the width can be {{convert|16|-|25|m|ft|abbr=on}}, as long as the length of the longer boundary lines (touchlines) are greater than the shorter boundaries where the goals are placed (goal lines) ([[Basketball]] fields of {{convert|28|x|15|m|ft|abbr=on}} can be used). The "standard" size court for an international is {{convert|40|x|20|m|ft|abbr=on}} (the size of a [[handball]] field).<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/pitch_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 1)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072832/http://www.fifa.com/flash/lotg/futsal/en/pitch_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> The ceiling must be at least {{convert|4|m|ft|abbr=on}} high.<ref name=Law10>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law10_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 10)|accessdate=2008-01-24 |archiveurl = https://web.archive.org/web/20080109072704/http://www.fifa.com/flash/lotg/futsal/en/law10_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref>
+
+A rectangular goal is positioned at the middle of each goal line. The inner edges of the vertical goal posts must be {{convert|3|m|ft|abbr=on}} apart, and the lower edge of the horizontal crossbar supported by the goal posts must be {{convert|2|m|ft|abbr=on}} above the ground. Nets made of hemp, jute or nylon are attached to the back of the goalposts and crossbar. The lower part of the nets is attached to curved tubing or another suitable means of support. The depth of the goal is {{convert|80|cm|in|abbr=on}} at the top and {{convert|1|m|ft|abbr=on}} at the bottom.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/pitch4_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 1)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20071115223500/http://www.fifa.com/flash/lotg/futsal/en/pitch4_en.htm <!-- Bot retrieved archive --> |archivedate = 2007-11-15}}</ref>
+
+[[File:Tokyo rooftop football.jpg|thumb|upright=1.2|A futsal arena in [[Tokyo]]]]
+In front of each goal is an area known as the penalty area. This area is created by drawing quarter-circles with a {{convert|6|m|ft|abbr=on}} radius from the goal line, centered on the goalposts. The upper part of each quarter-circle is then joined by a {{convert|3.16|m|ft|abbr=on}} line running parallel to the goal line between the goalposts. The line marking the edge of the penalty area is known as the penalty area line.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/pitch1_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 1)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080114053153/http://www.fifa.com/flash/lotg/futsal/en/pitch1_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-14}}</ref> The penalty area marks where the goalkeeper is allowed to touch the ball with hands. The penalty mark is six metres from the goal line when it reaches the middle of the goalposts. The second penalty mark is {{convert|10|m|ft|0}} from the goal line when it reaches the middle of the goalposts. A penalty kick from the penalty spot is awarded if a player commits a foul inside the penalty area.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law15_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 15)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072741/http://www.fifa.com/flash/lotg/futsal/en/law15_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> The second penalty spot is used if a player commits their team's sixth foul in the opposing team's half or in their own half in the area bordered by the halfway line and an imaginary line parallel to the halfway line passing through the second penalty mark; the [[Direct free kick|free kick]] is taken from the second penalty mark.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law14a_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 14)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080113111807/http://www.fifa.com/flash/lotg/futsal/en/law14a_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-13}}</ref>
+
+Any standard [[Handball|team handball]] field can be used for futsal, including goals and floor markings.
+
+=== Duration and tie-breaking methods ===
+A standard match consists of two equal periods of 20 minutes. The length of either half is extended to allow penalty kicks to be taken or a direct free kick to be taken against a team that has committed more than five fouls. The interval between the two halves cannot exceed 15 minutes.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law8_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 8)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072822/http://www.fifa.com/flash/lotg/futsal/en/law8_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref>
+
+In some competitions, the game cannot end in a draw, so away goals, extra time and kicks from the penalty mark are the three methods for determining the winner after a match has been drawn. [[Away goals]] mean that if the team's score is level after playing one home and one away game, the team which has scored more away goals wins. Extra time consists of two periods of five minutes. If no winner is produced after these methods, three kicks from the penalty mark are taken, and the team that has scored the most wins. If it is not decided after three kicks from the penalty mark, it continues to go on with one extra kick from the penalty mark to each team at a time until one of them has scored more goals than the other. Unlike extra time, the goals scored in a shoot-out do not count towards the goals scored throughout the match.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/winner_en.htm |publisher=FIFA |title=Futsal Laws of the game (Extra time and penalties)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080115072816/http://www.fifa.com/flash/lotg/futsal/en/winner_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-15}}</ref>
+
+=== The start and restart of play ===
+At the beginning of the match, a coin toss is used to decide who will start the match. A kick-off is used to signal the start of play and is used at the start of the second half and any periods of extra time. It is also used after a goal has been scored, with the other team starting the play.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law9_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 9)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080109072827/http://www.fifa.com/flash/lotg/futsal/en/law9_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> After a temporary stoppage for any reason not mentioned in the Laws of the Game, the referee will drop the ball where the play was stopped, provided that, before the stoppage, the ball was in play and had not crossed either the touch lines or goal lines.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law9a_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 9)|accessdate=2008-01-23 |archiveurl = https://web.archive.org/web/20080113134538/http://www.fifa.com/flash/lotg/futsal/en/law9a_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-13}}</ref>
+
+If the ball goes over the goal line or touchline, hits the ceiling, or the play is stopped by the referee, the ball is out of play. If it hits the ceiling of an indoor arena, play is restarted with a kick-in to the opponents of the team that last touched the ball, under the place where it hit the ceiling.<ref name="Law10" />
+
+=== Lack of offside rule ===
+Unlike football, there is no [[Offside (association football)|offside rule]] in futsal. Attackers can get much closer to the goal than they can in the traditional outdoor version of football.
+
+=== Misconduct ===
+{{double image|right|Orange card.svg|60|Red card.svg|60|Players are cautioned with a yellow card and sent off with a red card.}}
+
+A direct free kick can be awarded to the opposing team if a player succeeds or attempts to kick or trip an opponent, jumps, charges or pushes an opponent, or strikes or attempts to strike an opponent. Holding, touching or spitting at an opponent are offenses that are worthy of a direct free kick, as are sliding in to play the ball while an opponent is playing it or carrying, striking or throwing the ball (except the goalkeeper). These are all accumulated fouls. The direct free kick is taken where the infringement occurred, unless it is awarded to the defending team in their penalty area, in which case the free kick may be taken from anywhere inside the penalty area.<ref>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law12_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 12)|accessdate=2008-01-24 |archiveurl = https://web.archive.org/web/20080109072713/http://www.fifa.com/flash/lotg/futsal/en/law12_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-09}}</ref> A penalty kick is awarded if a player commits one of the fouls that are worthy of a direct free kick inside their own penalty area. The position of the ball does not matter as long as it is in play but for a penalty kick, the ball must be on the outer line, perpendicular to the center of the net.<ref name=Law12a>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law12a_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 12)|accessdate=2008-01-25 |archiveurl = https://web.archive.org/web/20080113111802/http://www.fifa.com/flash/lotg/futsal/en/law12a_en.htm <!-- Bot retrieved archive --> |archivedate = 2008-01-13}}</ref>
+
+An indirect free kick is awarded to the opposing team if a goalkeeper clears the ball but then touches it with their hands before anyone else, if the goalkeeper controls the ball with hands when it has been kicked to them by a teammate, or if they touch or control the ball with hands or feet in their own half for more than four seconds.<ref name="Law12a" />
+
+An indirect free kick is also awarded to the opposing team if a player plays in a dangerous manner, deliberately obstructs an opponent, prevents the goalkeeper from throwing the ball with hands or anything else for which play is stopped to caution or dismiss a player. The indirect free kick is taken from the place where the infringement occurred.<ref name="Law12a" />
+
+Yellow and red cards are used in futsal. The yellow card is to caution players over their actions. If they get two, they are given a red card, which means they are sent off the field. A yellow card is shown if a player shows unsporting behaviour, dissent, persistent infringement of the Laws of the Game, delaying the restart of play, failing to respect the distance of the player from the ball when play is being restarted, infringement of substitution procedure or entering, re-entering and leaving the field without the referee's permission.<ref name=Law12b>{{cite web |url=https://www.fifa.com/flash/lotg/futsal/en/law12b_en.htm |publisher=FIFA |title=Futsal Laws of the game (Law 12)|accessdate=2008-01-26 |archiveurl = https://web.archive.org/web/20071112172442/http://www.fifa.com/flash/lotg/futsal/en/law12b_en.htm <!-- Bot retrieved archive --> |archivedate = 2007-11-12}}</ref> A player is shown the red card and sent off if they engage in serious foul play, violent conduct, spitting at another person, or denying the opposing team a goal by handling the ball (except the goalkeeper inside their penalty area). Also punishable with a red card is denying an opponent moving towards the player's goal a goalscoring opportunity by committing an offence punishable by a free kick or a penalty kick and using offensive, insulting or abusive language or gestures.<ref name="Law12b" /> A player who has been sent off must leave the vicinity of the field.
+
+A substitute player is permitted to come on two minutes after a teammate has been sent off, unless a goal is scored before the end of the two minutes. If a team with more players scores against a team with fewer players, another player can be added to the team with an inferior number of players. If the teams are equal when the goal is scored or if the team with fewer players scores, both teams remain with the same number of players.
+
+== World ranking ==
+=== Men's ranking ===
+{{As of|2019|02|10}}, the top 25 teams according to the ELO-based rankings are:<ref>{{cite web|url=http://www.futsalworldranking.be/rank.htm |title=Futsal World Ranking |publisher=Futsalworldranking.be |access-date=10 February 2019}}</ref>
+
+{| class="wikitable" style="text-align: left;"
+|-
+!#
+!Team
+!Points
+|-
+|1
+|{{futsal|Brazil}}
+|1901
+|-
+|2
+|{{futsal|Spain}}
+|1781
+|-
+|3
+|{{futsal|Argentina}}
+|1663
+|-
+|3
+|{{futsal|Iran}}
+|1663
+|-
+|5
+|{{futsal|Russia}}
+|1661
+|-
+|6
+|{{futsal|Portugal}}
+|1652
+|-
+|7
+|{{futsal|Kazakhstan}}
+|1540
+|-
+|8
+|{{futsal|Italy}}
+|1521
+|-
+|9
+|{{futsal|Ukraine}}
+|1488
+|-
+|10
+|{{futsal|Paraguay}}
+|1468
+|-
+|11
+|{{futsal|Azerbaijan}}
+|1430
+|-
+|12
+|{{futsal|Croatia}}
+|1412
+|-
+|13
+|{{futsal|Colombia}}
+|1411
+|-
+|14
+|{{futsal|Japan}}
+|1388
+|-
+|15
+|{{futsal|Serbia}}
+|1354
+|-
+|16
+|{{futsal|Czech Republic}}
+|1349
+|-
+|17
+|{{futsal|Slovenia}}
+|1335
+|-
+|18
+|{{futsal|France}}
+|1312
+|-
+|19
+|{{futsal|Thailand}}
+|1295
+|-
+|20
+|{{futsal|Egypt}}
+|1264
+|-
+|21
+|{{futsal|Romania}}
+|1250
+|-
+|22
+|{{futsal|Belarus}}
+|1245
+|-
+|23
+|{{futsal|Poland}}
+|1227
+|-
+|24
+|{{futsal|Panama}}
+|1212
+|-
+|25
+|{{futsal|Costa Rica}}
+|1202
+|}
+
+=== Women's ranking ===
+As of 7 May 2012, according to a ranking based partly on the ELO system and partly on a form-based system, the top 10 teams are:<ref name="roonba.com">{{cite web|url=http://www.roonba.com/futsal/women/ranking.html |archive-url=https://archive.is/20121023235318/http://www.roonba.com/futsal/women/ranking.html |dead-url=yes |archive-date=October 23, 2012 |title=Archived copy |accessdate=May 7, 2012 }}</ref>
+
+{| class="wikitable" style="text-align: left;"
+|-
+!#
+!Team
+!Points
+|-
+|1
+|{{wfutsal|Brazil}}
+|2326
+|-
+|2
+|{{wfutsal|Spain}}
+|2248
+|-
+|3
+|{{wfutsal|Portugal}}
+|2172
+|-
+|4
+|{{wfutsal|Russia}}
+|2019
+|-
+|5
+|{{wfutsal|Ukraine}}
+|2014
+|-
+|6
+|{{wfutsal|Japan}}
+|1963
+|-
+|7
+|{{wfutsal|Guatemala}}
+|1934
+|-
+|8
+|{{wfutsal|Netherlands}}
+|1911
+|-
+|9
+|{{wfutsal|Australia}}
+|1888
+|-
+|10
+|{{wfutsal|Argentina}}
+|1876
+|}
+
+== Competitions ==
+=== National team competitions ===
+==== Men's national competitions ====
+{| class="wikitable"
+|-
+! Region
+! AMF-affiliated
+! FIFA-affiliated
+! Other competitions
+|-
+| '''World'''
+| [[AMF Futsal World Cup]]
+| [[FIFA Futsal World Cup]]
+|
+* [[Futsal Confederations Cup]]
+* [[Futsal Mundialito]]
+* [[Grand Prix de Futsal]]
+* [[Arab Futsal Championship]]
+* [[Mediterranean Futsal Cup]]
+|-
+| '''Asia'''
+|
+| [[AFC Futsal Championship]]
+|
+* [[Futsal at the Asian Indoor and Martial Arts Games|Asian Indoor and Martial Arts Games]]
+* [[Futsal at the Southeast Asian Games|Southeast Asian Games]]
+* [[AFF Futsal Championship]]
+* [[CAFA Futsal Championship]]
+* [[EAFF Futsal Championship]]
+* [[WAFF Futsal Championship]]
+|-
+| '''Africa'''
+|
+| [[Africa Futsal Cup of Nations]]
+|
+* [[North African Futsal Tournament]]
+|-
+| '''North America, Central America and Caribbean'''
+|
+| [[CONCACAF Futsal Championship]]
+|
+* [[Futsal at the Central American Games|Central American Games]]
+|-
+| '''South America'''
+|
+| [[Copa América de Futsal]]
+|
+* [[Futsal at the South American Games|Odesur Games]]
+* [[Futsal at the Bolivarian Games|Bolivarian Games]]
+|-
+| '''Oceania'''
+|
+| [[OFC Futsal Championship|Oceanian Futsal Championship]]
+|
+|-
+| '''Europe'''
+| [[UEFS Futsal Men's Championship]]
+| [[UEFA Futsal Championship]]
+|
+* [[Baltic Futsal Cup]]
+* [[Nordic Futsal Cup]]
+|}
+
+==== Women's national competitions ====
+{| class="wikitable"
+|-
+! Region !! AMF-affiliated !! FIFA-affiliated !! Other competitions
+|-
+| '''World''' || [[AMF Futsal World Cup|AMF Futsal Women's World Cup]] ||  || [[Women's Futsal World Tournament]]
+|-
+| '''Asia''' ||  || [[AFC Women's Futsal Championship]]  || [[Futsal at the Asian Indoor and Martial Arts Games|Asian Indoor and Martial Arts Games]] <br />[[Futsal at the Southeast Asian Games|Southeast Asian Games]] <br />[[CAFA Futsal Championship]] <br />[[WAFF Women's Futsal Championship|WAFF Futsal Championship]]
+|-
+| '''Africa''' ||  ||  ||
+|-
+| '''North America, Central America and Caribbean''' ||  ||  ||
+|-
+| '''South America''' ||  || [[Copa América Femenina de Futsal]] ||
+|-
+| '''Oceania''' ||  ||  ||
+|-
+| '''Europe''' || [[UEFS Futsal Women's Championship]] || [[UEFA Women's Futsal Championship]] ||
+|}
+
+=== Club competitions ===
+{| class="wikitable"
+|-
+! Region !! AMF-affiliated men's competitions !! AMF-affiliated women's competitions !! FIFA-affiliated men's competitions !! FIFA-affiliated women's competitions!! Other competitions
+|-
+| '''World''' || [[AMF Club World Cup]]<ref>{{cite web |url=http://www.uefs.eu/competitions_uefs_male_world-teams-inglish.htm |title=Club World Championships AMF MALE |accessdate=18 July 2010}}</ref><ref name="uefscompetitions">{{cite web |url=http://www.uefsfutsal.net/uefs.html |title=UEFS History |accessdate=18 July 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100714071243/http://www.uefsfutsal.net/uefs.html |archivedate=14 July 2010 |df= }}</ref> ||  || [[Intercontinental Futsal Cup]] ||  || [[Futsal 5 A-Side Australia (FFAA) Interstate Club Championship]]
+|-
+| '''South America''' ||  ||  || [[Copa Libertadores de Futsal]]  || [[Copa Libertadores Femenina de Futsal]] ||
+|-
+| '''Asia''' ||  ||  || [[AFC Futsal Club Championship]] ||  ||
+|-
+| '''Africa''' ||  ||  ||  ||  ||
+|-
+| '''North America, Central America and Caribbean''' ||  ||  || [[CONCACAF Futsal Club Championship]] ||  ||
+|-
+| '''Oceania''' ||  ||  ||  ||  ||
+|-
+| '''Europe''' ||
+* [[UEFS European Champions Cup]]<ref name="uefscompetitions" /><ref>{{cite web |url=http://www.uefs.eu/competitons_uefs_male_champions-inglish.htm |title=UEFS Champions League MALE |accessdate=18 July 2010}}</ref>
+* [[UEFS Cup]]<ref name="uefscompetitions" /><ref>{{cite web |url=http://www.uefs.eu/competitions_uefs_male_cup-uefs-inglish.htm |title=UEFS Cup MALE |accessdate=18 July 2010}}</ref>
+* [[UEFS Veteran European Champions Cup]]<ref name="uefscompetitions" /><ref>{{cite web |url=http://www.uefs.eu/competitions_uefs_male_veteranos-inglish.htm |title=Cup of European Veterans MALE |accessdate=18 July 2010}}</ref>
+||
+* [[UEFS Women's European Champions Cup]]<ref name="uefscompetitions" /><ref>{{cite web |url=http://www.uefs.eu/competiciones_uefs_femenino_champions-spanish.htm |title=UEFS Champions League FEMENINO |accessdate=18 July 2010 |language=Spanish}}</ref>
+* [[UEFS Women's Cup]]<ref name="uefscompetitions" /><ref>{{cite web |url=http://www.uefs.eu/competiciones_uefs_femenino_cup-uefs-spanish.htm |title=Copa UEFS FEMENINO |accessdate=18 July 2010 |language=Spanish}}</ref>
+|| [[UEFA Futsal Cup]] ||  ||
+|}
+
+=== Discontinued competitions ===
+* [[Futsal at the Pan American Games]]
+* [[Futsal at the Lusophony Games]]
+
+== FIFA competitions ==
+=== Men's national teams ===
+==== International ====
+{| class="wikitable"
+|-
+!Competition
+!Year
+!City
+!Country
+!Winner [[File:Gold medal icon.svg|16px]]
+!Runner-up [[File:Silver medal icon.svg|16px]]
+!3rd [[File:Bronze medal icon.svg|16px]]
+!4th
+|-
+|rowspan=9 |[[FIFA Futsal World Cup]]
+| [[1989 FIFA Futsal World Championship|1989]]
+|[[Rotterdam]]
+|[[Netherlands]]
+|{{futsal|Brazil|1968}}
+|{{futsal|Netherlands}}
+|{{futsal|USA}}
+|{{futsal|Belgium}}
+|-
+| [[1992 FIFA Futsal World Championship|1992]]
+|[[Hong Kong]]
+|[[Hong Kong]]
+|{{futsal|Brazil}}
+|{{futsal|USA}}
+|{{futsal|Spain}}
+|{{futsal|Iran}}
+|-
+|[[1996 FIFA Futsal World Championship|1996]]
+|[[Barcelona]]
+|[[Spain]]
+|{{futsal|Brazil}}
+|{{futsal|Spain}}
+|{{futsal|Russia}}
+|{{futsal|Ukraine}}
+|-
+|[[2000 FIFA Futsal World Championship|2000]]
+|[[Guatemala City]]
+|[[Guatemala]]
+|{{futsal|Spain}}
+|{{futsal|Brazil}}
+|{{futsal|Portugal}}
+|{{futsal|Russia}}
+|-
+|[[2004 FIFA Futsal World Championship|2004]]
+|[[Taipei|Taipei City]]
+|[[Chinese Taipei]]
+|{{futsal|Spain}}
+|{{futsal|Italy}}
+|{{futsal|Brazil}}
+|{{futsal|Argentina}}
+|-
+|[[2008 FIFA Futsal World Cup|2008]]
+|[[Rio de Janeiro]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Spain}}
+|{{futsal|Italy}}
+|{{futsal|Russia}}
+|-
+|[[2012 FIFA Futsal World Cup|2012]]
+|[[Bangkok]]
+|[[Thailand]]
+|{{futsal|Brazil}}
+|{{futsal|Spain}}
+|{{futsal|Italy}}
+|{{futsal|Colombia}}
+|-
+|[[2016 FIFA Futsal World Cup|2016]]
+|[[Cali]]
+|[[Colombia]]
+|{{futsal|Argentina}}
+|{{futsal|Russia}}
+|{{futsal|Iran}}
+|{{futsal|Portugal}}
+|- style="border-bottom:3px solid black;"
+|[[2020 FIFA Futsal World Cup|2020]]
+|[[Vilnius]]
+|[[Lithuania]]
+|
+|
+|
+|
+|-
+|rowspan=3 |[[Futsal Confederations Cup]]
+|[[2009 Al-Fateh Confederations Futsal Cup|2009]]
+|[[Tripoli]]
+|[[Libya]]
+|{{futsal|Iran}}
+|{{futsal|Uruguay}}
+|{{futsal|Libya|1977}}
+|{{futsal|Guatemala}}
+|-
+|[[2013 Futsal Confederations Cup|2013]]
+|[[Caxias do Sul]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Colombia}}
+|{{futsal|Chile}}
+|{{futsal|Croatia}}
+|- style="border-bottom:3px solid black;"
+|[[2014 Futsal Continental Cup|2014]]
+|[[Kuwait City]]
+|[[Kuwait]]
+|{{futsal|Argentina}}
+|{{futsal|Czech Republic}}
+|{{futsal|Brazil}}
+|{{futsal|Italy}}
+|-
+|- style="border-bottom:3px solid black;"
+|[[Mediterranean Futsal Cup]]
+|[[2010 Mediterranean Futsal Cup|2010]]
+|[[Tripoli]]
+|[[Libya]]
+|{{futsal|Croatia}}
+|{{futsal|Libya|1977}}
+|{{futsal|Slovenia}}
+|{{futsal|France}}
+|-
+|rowspan=9 |[[Futsal Mundialito]]
+| [[1994 Futsal Mundialito|1994]]
+|[[Milan]]
+|[[Italy]]
+|{{futsal|Italy}}
+|{{futsal|Croatia}}
+|{{futsal|Spain}}
+|{{futsal|Hungary}}
+|-
+| [[1995 Futsal Mundialito|1995]]
+|[[Rio de Janeiro]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Italy}}
+|{{futsal|Spain}}
+|{{futsal|USA}}
+|-
+|[[1996 Futsal Mundialito|1996]]
+|[[Rio de Janeiro]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Paraguay|1990}}
+|{{futsal|Argentina}}
+|{{futsal|USA}}
+|-
+|[[1998 Futsal Mundialito|1998]]
+|[[Rio de Janeiro]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Argentina}}
+|{{futsal|USA}}
+|{{futsal|Italy}}
+|-
+|[[2001 Futsal Mundialito|2001]]
+|[[Joinville]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Argentina}}
+|{{futsal|Portugal}}
+|{{futsal|Czech Republic}}
+|-
+|[[2002 Futsal Mundialito|2002]]
+|[[Reggio Calabria]]
+|[[Italy]]
+|{{futsal|Brazil}}
+|{{futsal|Italy}}
+|{{futsal|Russia}}
+|{{futsal|Argentina}}
+|-
+|[[2006 Futsal Mundialito|2006]]
+|[[Algarve]]
+|[[Portugal]]
+|{{futsal|Portugal}}
+|{{futsal|Croatia}}
+|{{futsal|Angola}}
+|{{futsal|Mozambique}}
+|-
+|[[2007 Futsal Mundialito|2007]]
+|[[Algarve]]
+|[[Portugal]]
+|{{futsal|Portugal}}
+|{{futsal|Slovakia}}
+|{{futsal|Hungary}}
+|{{futsal|Croatia}}
+|- style="border-bottom:3px solid black;"
+|[[2008 Futsal Mundialito|2008]]
+|[[Algarve]]
+|[[Portugal]]
+|{{futsal|Portugal}}
+|{{futsal|Hungary}}
+|{{futsal|Angola}}
+|{{futsal|Libya|1977}}
+|-
+|rowspan=11 |[[Grand Prix de Futsal]]
+|[[2005 Grand Prix de Futsal|2005]]
+|[[Brusque, Santa Catarina]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Colombia}}
+|{{futsal|Argentina}}
+|{{futsal|Uruguay}}
+|-
+|[[2006 Grand Prix de Futsal|2006]]
+|[[Caxias do Sul]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Italy}}
+|{{futsal|Croatia}}
+|{{futsal|Argentina}}
+|-
+|[[2007 Grand Prix de Futsal|2007]]
+|[[Joinville]] & [[Lages]] & [[Jaraguá do Sul]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Iran}}
+|{{futsal|Argentina}}
+|{{futsal|Hungary}}
+|-
+|[[2008 Grand Prix de Futsal|2008]]
+|[[Fortaleza]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Argentina}}
+|{{futsal|Ukraine}}
+|{{futsal|Paraguay|1990}}
+|-
+|[[2009 Grand Prix de Futsal|2009]]
+|[[Anápolis]] & [[Goiânia]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Iran}}
+|{{futsal|Romania}}
+|{{futsal|Czech Republic}}
+|-
+|[[2010 Grand Prix de Futsal|2010]]
+|[[Anápolis]]
+|[[Brazil]]
+|{{futsal|Spain}}
+|{{futsal|Brazil}}
+|{{futsal|Paraguay|1990}}
+|{{futsal|Iran}}
+|-
+|[[2011 Grand Prix de Futsal|2011]]
+|[[Manaus]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Russia}}
+|{{futsal|Argentina}}
+|{{futsal|Iran}}
+|-
+|[[2013 Grand Prix de Futsal|2013]]
+|[[Maringá]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Russia}}
+|{{futsal|Iran}}
+|{{futsal|Paraguay}}
+|-
+|[[2014 Grand Prix de Futsal|2014]]
+|[[São Bernardo do Campo|São Bernardo]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Colombia}}
+|{{futsal|Iran}}
+|{{futsal|Guatemala}}
+|-
+|[[2015 Grand Prix de Futsal|2015]]
+|[[Uberaba]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Iran}}
+|{{futsal|Colombia}}
+|{{futsal|Paraguay}}
+|- style="border-bottom:3px solid black;"
+|[[2018 Grand Prix de Futsal|2018]]
+|[[Brusque, Santa Catarina]]
+|[[Brazil]]
+|{{futsal|Brazil}}
+|{{futsal|Czech Republic}}
+|{{futsal|Uruguay}}
+|{{futsal|Costa Rica}}
+|-
+|rowspan=4 |[[Arab Futsal Championship]]
+|[[1998 Arab Futsal Championship|1998]]
+|[[Cairo]]
+|[[Egypt]]
+|{{futsal|Egypt}}
+|{{futsal|Morocco}}
+|{{futsal|Libya|1977}}
+|{{futsal|Palestine}}
+|-
+|[[2005 Arab Futsal Championship|2005]]
+|[[Cairo]]
+|[[Egypt]]
+|{{futsal|Egypt}}
+|{{futsal|Morocco}}
+|{{futsal|Lebanon}}
+|{{futsal|Libya|1977}}
+|-
+|[[2007 Arab Futsal Championship|2007]]
+|[[Tripoli]]
+|[[Libya]]
+|{{futsal|Libya|1977}}
+|{{futsal|Egypt}}
+|{{futsal|Lebanon}}
+|{{futsal|Morocco}}
+|-
+|[[2008 Arab Futsal Championship|2008]]
+|[[Port Said]]
+|[[Egypt]]
+|{{futsal|Libya|1977}}
+|{{futsal|Egypt}}
+|{{futsal|Jordan}}
+|{{futsal|Lebanon}}
+|}
+
+==== Continental (major) ====
+{| class="wikitable"
+|-
+!Continental
+!Year
+!Country
+!Winner [[File:Gold medal icon.svg|16px]]
+!Runner-up [[File:Silver medal icon.svg|16px]]
+!3rd [[File:Bronze medal icon.svg|16px]]
+!4th
+|-
+|rowspan=6|[[Africa Futsal Cup of Nations|Africa (CAF)]]
+|[[1996 African Futsal Championship|1996]]
+| [[Egypt]]
+| {{futsal|Egypt}}
+| {{futsal|Ghana}}
+| {{futsal|Zimbabwe}}
+| {{futsal|Somalia}}
+|-
+|[[2000 African Futsal Championship|2000]]
+| [[Egypt]]
+| {{futsal|Egypt}}
+| {{futsal|Morocco}}
+| {{futsal|Libya|1977}}
+| {{futsal|South Africa}}
+|-
+|[[2004 African Futsal Championship|2004]]
+| ''Home & away''
+| {{futsal|Egypt}}
+| {{futsal|Mozambique}}
+| {{futsal|Morocco}}
+| {{futsal|Guinea-Bissau}}
+|-
+|[[2008 African Futsal Championship|2008]]
+| [[Libya]]
+| {{futsal|Libya|1977}}
+| {{futsal|Egypt}}
+| {{futsal|Morocco}}
+| {{futsal|Mozambique}}
+|-
+|[[2016 Africa Futsal Cup of Nations|2016]]
+| [[South Africa]]
+| {{futsal|Morocco}}
+| {{futsal|Egypt}}
+| {{futsal|Mozambique}}
+| {{futsal|Zambia}}
+|-
+|[[2020 Africa Futsal Cup of Nations|2020]]
+| 
+|
+|
+|
+|
+|- style="border-top:3px solid black;"
+|rowspan=15|[[AFC Futsal Championship|Asia (AFC)]]
+| [[1999 AFC Futsal Championship|1999]]
+| [[Malaysia]]
+| {{Futsal|Iran}}
+| {{Futsal|South Korea|1997}}
+| {{Futsal|Kazakhstan}}
+| {{Futsal|Japan}}
+|-
+| [[2000 AFC Futsal Championship|2000]]
+| [[Thailand]]
+| {{Futsal|Iran}}
+| {{Futsal|Kazakhstan}}
+| {{Futsal|Thailand}}
+| {{Futsal|Japan}}
+|-
+| [[2001 AFC Futsal Championship|2001]]
+| [[Iran]]
+| {{Futsal|Iran}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|South Korea|1997}}
+| {{Futsal|Japan}}
+|-
+| [[2002 AFC Futsal Championship|2002]]
+| [[Indonesia]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| {{Futsal|Thailand}}
+| {{Futsal|South Korea|1997}}
+|-
+| [[2003 AFC Futsal Championship|2003]]
+| [[Iran]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| {{Futsal|Thailand}}
+| {{Futsal|Kuwait}}
+|-
+| [[2004 AFC Futsal Championship|2004]]
+| [[Macau]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| {{Futsal|Thailand}}
+| {{Futsal|Uzbekistan}}
+|-
+| [[2005 AFC Futsal Championship|2005]]
+| [[Vietnam]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| colspan="2" style="text-align:center;"|{{Futsal|Uzbekistan}} & {{Futsal|Kyrgyzstan}}
+|-
+| [[2006 AFC Futsal Championship|2006]]
+| [[Uzbekistan]]
+| {{Futsal|Japan}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Iran}}
+| {{Futsal|Kyrgyzstan}}
+|-
+| [[2007 AFC Futsal Championship|2007]]
+| [[Japan]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Kyrgyzstan}}
+|-
+| [[2008 AFC Futsal Championship|2008]]
+| [[Thailand]]
+| {{Futsal|Iran}}
+| {{Futsal|Thailand}}
+| {{Futsal|Japan}}
+| {{Futsal|China}}
+|-
+| [[2010 AFC Futsal Championship|2010]]
+| [[Uzbekistan]]
+| {{Futsal|Iran}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Japan}}
+| {{Futsal|China}}
+|-
+| [[2012 AFC Futsal Championship|2012]]
+| [[United Arab Emirates]]
+| {{Futsal|Japan}}
+| {{Futsal|Thailand}}
+| {{Futsal|Iran}}
+| {{futsal|Australia}}
+|-
+| [[2014 AFC Futsal Championship|2014]]
+| [[Vietnam]]
+| {{Futsal|Japan}}
+| {{Futsal|Iran}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Kuwait}}
+|-
+| [[2016 AFC Futsal Championship|2016]]
+| [[Uzbekistan]]
+| {{Futsal|Iran}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Thailand}}
+| {{Futsal|Vietnam}}
+|-
+| [[2018 AFC Futsal Championship|2018]]
+| [[Chinese Taipei]]
+| {{Futsal|Iran}}
+| {{Futsal|Japan}}
+| {{Futsal|Uzbekistan}}
+| {{Futsal|Iraq}}
+|- style="border-top:3px solid black;"
+|rowspan=11|[[UEFA Futsal Championship|Europe (UEFA)]]
+|[[1996 UEFA Futsal Championship|1996]]
+| [[Spain]]
+| {{futsal|Spain}}
+| {{futsal|Russia}}
+| {{futsal|Belgium}}
+| {{futsal|Italy}}
+|-
+|[[1999 UEFA Futsal Championship|1999]]
+| [[Spain]]
+| {{futsal|Russia}}
+| {{futsal|Spain}}
+| {{futsal|Italy}}
+| {{futsal|Netherlands}}
+|-
+|[[2001 UEFA Futsal Championship|2001]]
+| [[Russia]]
+| {{futsal|Spain}}
+| {{futsal|Ukraine}}
+| {{futsal|Russia}}
+| {{futsal|Italy}}
+|-
+|[[2003 UEFA Futsal Championship|2003]]
+| [[Italy]]
+| {{futsal|Italy|2003}}
+| {{futsal|Ukraine}}
+| colspan="2" style="text-align:center;"|{{futsal|Spain}} & {{futsal|Czech Republic}}
+|-
+|[[2005 UEFA Futsal Championship|2005]]
+| [[Czech Republic]]
+| {{futsal|Spain}}
+| {{futsal|Russia}}
+| {{futsal|Italy|2003}}
+| {{futsal|Ukraine}}
+|-
+|[[2007 UEFA Futsal Championship|2007]]
+| [[Portugal]]
+| {{futsal|Spain}}
+| {{futsal|Italy}}
+| {{futsal|Russia}}
+| {{futsal|Portugal}}
+|-
+|[[2010 UEFA Futsal Championship|2010]]
+| [[Hungary]]
+| {{futsal|Spain}}
+| {{futsal|Portugal}}
+| {{futsal|Czech Republic}}
+| {{futsal|Azerbaijan}}
+|-
+|[[UEFA Futsal Euro 2012|2012]]
+| [[Croatia]]
+| {{futsal|Spain}}
+| {{futsal|Russia}}
+| {{futsal|Italy}}
+| {{futsal|Croatia}}
+|-
+|[[UEFA Futsal Euro 2014|2014]]
+| [[Belgium]]
+| {{futsal|Italy}}
+| {{futsal|Russia}}
+| {{futsal|Spain}}
+| {{futsal|Portugal}}
+|-
+|[[UEFA Futsal Euro 2016|2016]]
+| [[Serbia]]
+|{{futsal|Spain}}
+|{{futsal|Russia}}
+|{{futsal|Kazakhstan}}
+|{{futsal|Serbia}}
+|-
+|[[UEFA Futsal Euro 2018|2018]]
+| [[Slovenia]]
+|{{futsal|Portugal}}
+|{{futsal|Spain}}
+|{{futsal|Russia}}
+|{{futsal|Kazakhstan}}
+|- style="border-top:3px solid black;"
+|rowspan=6|[[CONCACAF Futsal Championship|North America, Central America and Caribbean<br />(CONCACAF)]]
+|[[1996 CONCACAF Futsal Championship|1996]]
+| [[Guatemala]]
+| {{futsal|United States}}
+| {{futsal|Cuba}}
+| {{futsal|Mexico}}
+| {{futsal|Guatemala}}
+|-
+|[[2000 CONCACAF Futsal Championship|2000]]
+| [[Costa Rica]]
+| {{futsal|Costa Rica}}
+| {{futsal|Cuba}}
+| {{futsal|United States}}
+| {{futsal|Mexico}}
+|-
+|[[2004 CONCACAF Futsal Championship|2004]]
+| [[Costa Rica]]
+| {{futsal|United States}}
+| {{futsal|Cuba}}
+| {{futsal|Costa Rica}}
+| {{futsal|Mexico}}
+|-
+|[[2008 CONCACAF Futsal Championship|2008]]
+| [[Guatemala]]
+| {{futsal|Guatemala}}
+| {{futsal|Cuba}}
+| {{futsal|United States}}
+| {{futsal|Panama}}
+|-
+|[[2012 CONCACAF Futsal Championship|2012]]
+| [[Guatemala]]
+| {{futsal|Costa Rica}}
+| {{futsal|Guatemala}}
+| {{futsal|Panama}}
+| {{futsal|Mexico}}
+|-
+|[[2016 CONCACAF Futsal Championship|2016]]
+| [[Costa Rica]]
+| {{futsal|Costa Rica}}
+| {{futsal|Panama}}
+| {{futsal|Guatemala}}
+| {{futsal|Cuba}}
+|- style="border-top:3px solid black;"
+|rowspan=11|[[OFC Futsal Championship|Oceania (OFC)]]
+|[[1992 Oceanian Futsal Championship|1992]]
+| [[Australia]]
+| {{futsal|Australia}}
+| {{futsal|Vanuatu}}
+| {{futsal|New Zealand}}
+|
+|-
+|[[1996 Oceanian Futsal Championship|1996]]
+| [[Vanuatu]]
+| {{futsal|Australia}}
+| {{futsal|Vanuatu}}
+| {{futsal|Fiji}}
+| {{futsal|Samoa|name=Western Samoa}}
+|-
+|[[1999 Oceanian Futsal Championship|1999]]
+| [[Vanuatu]]
+| {{futsal|Australia}}
+| {{futsal|Fiji}}
+| {{futsal|Vanuatu}}
+| {{futsal|Papua New Guinea}}
+|-
+|[[2004 Oceanian Futsal Championship|2004]]
+| [[Australia]]
+| {{futsal|Australia}}
+| {{futsal|New Zealand}}
+| {{futsal|Vanuatu}}
+| {{futsal|Fiji}}
+|-
+|[[2008 Oceanian Futsal Championship|2008]]
+| [[Fiji]]
+| {{futsal|Solomon Islands}}
+| {{futsal|Tahiti|name=Tahiti}}
+| {{futsal|Vanuatu}}
+| {{futsal|New Zealand}}
+|-
+|[[2009 Oceanian Futsal Championship|2009]]
+| [[Fiji]]
+| {{futsal|Solomon Islands}}
+| {{futsal|Fiji}}
+| {{futsal|Vanuatu}}
+| {{futsal|New Caledonia}}
+|-
+|[[2010 Oceanian Futsal Championship|2010]]
+| [[Fiji]]
+| {{futsal|Solomon Islands}}
+| {{futsal|Fiji}}
+| {{futsal|New Zealand}}
+| {{futsal|Vanuatu}}
+|-
+|[[2011 Oceanian Futsal Championship|2011]]
+| [[Fiji]]
+| {{futsal|Solomon Islands}}
+| {{futsal|Tahiti|name=Tahiti}}
+| {{futsal|New Zealand}}
+| {{futsal|Vanuatu}}
+|-
+|[[2013 OFC Futsal Championship|2013]]
+| [[New Zealand]]
+| {{futsal|Australia}}
+| {{futsal|Malaysia}}
+| {{futsal|New Zealand}}
+| {{futsal|Tahiti|name=Tahiti}}
+|-
+|[[2014 OFC Futsal Championship|2014]]
+| [[New Caledonia]]
+| {{futsal|Malaysia}}
+| {{futsal|New Caledonia}}
+| {{futsal|New Zealand}}
+| {{futsal|Tahiti|name=Tahiti}}
+|- style="border-bottom:3px solid black;"
+|[[2016 OFC Futsal Championship|2016]]
+| [[Fiji]]
+| {{futsal|Solomon Islands}}
+| {{futsal|New Zealand}}
+| {{futsal|Tahiti|name=Tahiti}}
+| {{futsal|Vanuatu}}
+|-
+
+|rowspan=12|[[Copa América de Futsal|South America (CONMEBOL)]]
+| [[1992 South American Futsal Championship|1992]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Ecuador}}
+|-
+| [[1995 South American Futsal Championship|1995]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Paraguay|1990}}
+|-
+| [[1996 South American Futsal Championship|1996]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay|1990}}
+|-
+| [[1997 South American Futsal Championship|1997]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Uruguay}}
+|-
+| [[1998 South American Futsal Championship|1998]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+|-
+| [[1999 South American Futsal Championship|1999]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Argentina}}
+| {{Futsal|Uruguay}}
+|-
+| [[2000 South American Futsal Championship|2000]]
+| [[Brazil]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Bolivia}}
+|-
+| [[2003 Copa América de Futsal|2003]]
+| [[Paraguay]]
+| {{Futsal|Argentina}}
+| {{Futsal|Brazil}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Uruguay}}
+|-
+| [[2008 Copa América de Futsal|2008]]
+| [[Uruguay]]
+| {{Futsal|Brazil}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay|1990}}
+|-
+| [[2011 Copa América de Futsal|2011]]
+| [[Argentina]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay|1990}}
+| {{Futsal|Colombia}}
+|-
+| [[2015 Copa América de Futsal|2015]]
+| [[Ecuador]]
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay}}
+| {{Futsal|Brazil}}
+| {{Futsal|Colombia}}
+|-
+| [[2017 Copa América de Futsal|2017]]
+| [[Argentina]]
+| {{Futsal|Brazil}}
+| {{Futsal|Argentina}}
+| {{Futsal|Paraguay}}
+| {{Futsal|Uruguay}}
+|}
+
+===World University Futsal Championship===
+{{main|World University Championships}}
+
+* http://www.futsalplanet.com/news/news-01.asp?id=19476
+* http://www.futsalplanet.com/agenda/agenda-01.asp?id=18647
+* http://www.futsalplanet.com/agenda/agenda-01.asp?id=19477
+* http://www.rsssf.com/tablesf/fisu-indoor-det.html
+
+Men's
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan=2 width=5%|Year 
+!rowspan=2 width=12%|Host 
+| width = 1% rowspan=24| 
+!colspan=3|Final 
+| width = 1% rowspan=24| 
+!colspan=3|Third Place Match
+|-
+!width=15%|Winners
+!width=7%|Score 
+!width=15%|Runners-Up 
+!width=15%|3rd Place
+!width=7%|Score 
+!width=15%|4th Place
+|- bgcolor=#D0E7FF
+|1984<br>''[[1984 World University Futsal Championship|Details]]
+|{{flagicon|BRA|1968}} <br> [[São Paulo]]
+|'''{{futsal-big|BRA|1968}}
+|'''5–4'''
+|{{futsal-big|PAR|1954}}
+|{{futsal-big|SPA}}
+|'''7–6''' 
+|{{futsal-big|ITA}}
+|- 
+|1990<br>''[[1990 World University Futsal Championship|Details]]
+|{{flagicon|ITA}} <br> [[Parma]]
+|'''{{futsal-big|ITA}}
+|'''5–4''' ([[Penalty shoot-out (association football)|pen]])
+|{{futsal-big|SPA}}
+|{{futsal-big|URS}}
+|'''5–4'''
+|{{futsal-big|BEL}}
+|- bgcolor=#D0E7FF
+|1992<br>''[[1992 World University Futsal Championship|Details]]
+|{{flagicon|SPA}} <br> [[Málaga]]
+|'''{{futsal-big|SPA}}
+|'''8–1'''
+|{{futsal-big|BEL}}
+|{{futsal-big|ITA}}
+|'''2–1'''
+|{{futsal-big|BRA}}
+|- 
+|1994<br>''[[1994 World University Futsal Championship|Details]]
+|{{flagicon|CYP}} <br> [[Nicosia]]
+|'''{{futsal-big|RUS}}
+|'''6–5'''
+|{{futsal-big|SPA}}
+|{{futsal-big|ITA}}
+|'''6–2'''
+|{{futsal-big|BEL}}
+|- bgcolor=#D0E7FF
+|1996<br>''[[1996 World University Futsal Championship|Details]]
+|{{flagicon|FIN}} <br> [[Jyväskylä]]
+|'''{{futsal-big|BRA}}
+|'''6–5''' ([[Overtime (sports)|aet]])
+|{{futsal-big|RUS}}
+|{{futsal-big|UKR}}
+|'''9–5'''
+|{{futsal-big|POR}}
+|- 
+|1998<br>''[[1998 World University Futsal Championship|Details]]
+|{{flagicon|POR}} <br> [[Braga]]
+|'''{{futsal-big|UKR}}
+|'''3–2''' ([[Overtime (sports)|aet]])
+|{{futsal-big|RUS}}
+|{{futsal-big|BRA}}
+|'''5–1'''
+|{{futsal-big|POR}}
+|- bgcolor=#D0E7FF
+|2000<br>''[[2000 World University Futsal Championship|Details]]
+|{{flagicon|BRA}} <br> [[João Pessoa, Paraíba|João Pessoa]]
+|'''{{futsal-big|BRA}}
+|'''6–2'''
+|{{futsal-big|ITA}}
+|{{futsal-big|RUS}} 
+|'''3–2'''
+|{{futsal-big|POR}}
+|- 
+|2002<br>''[[2002 World University Futsal Championship|Details]]
+|{{flagicon|HUN}} <br> [[Nyíregyháza]]
+|'''{{futsal-big|RUS}}
+|'''4–1'''
+|{{futsal-big|ITA}}
+|{{futsal-big|UKR}}
+|'''5–3'''
+|{{futsal-big|HUN}}
+|- bgcolor=#D0E7FF
+|2004<br>''[[2004 World University Futsal Championship|Details]]
+|{{flagicon|SPA}} <br>  [[Palma, Majorca|Palma De Mallorca]]
+|'''{{futsal-big|UKR}}
+|'''3–1'''
+|{{futsal-big|BRA}}
+|{{futsal-big|RUS}}
+|'''3–2'''
+|{{futsal-big|SPA}}
+|- 
+|2006<br>''[[2006 World University Futsal Championship|Details]]
+|{{flagicon|POL}} <br> [[Poznan]]
+|'''{{futsal-big|RUS}}
+|'''4–1'''
+|{{futsal-big|BRA}}
+|{{futsal-big|UKR}}
+|'''5–1'''
+|{{futsal-big|NED}}
+|- bgcolor=#D0E7FF
+|2008<br>''[[2008 World University Futsal Championship|Details]]
+|{{flagicon|SLO}} <br> [[Koper]]
+|'''{{futsal-big|POR}}
+|'''5–1'''
+|{{futsal-big|UKR}}
+|{{futsal-big|SRB|2004}}
+|'''8–1'''
+|{{futsal-big|SLO}}
+|- 
+|2010<br>''[[2010 World University Futsal Championship|Details]]
+|{{flagicon|SRB|2004}} <br> [[Novi Sad]]
+|'''{{futsal-big|BRA}}
+|'''3–2'''
+|{{futsal-big|RUS}}
+|{{futsal-big|SRB|2004}}
+|'''6–4''' ([[Penalty shoot-out (association football)|pen]])
+|{{futsal-big|UKR}}
+|- bgcolor=#D0E7FF
+|2012<br>''[[2012 World University Futsal Championship|Details]]
+|{{flagicon|POR}} <br> [[Braga]]
+|'''{{futsal-big|UKR}}
+|'''1–0''' 
+|{{futsal-big|RUS}}
+|{{futsal-big|POR}}
+|'''2–0'''
+|{{futsal-big|THA}}
+|- 
+|2014<br>''[[2014 World University Futsal Championship|Details]]
+|{{flagicon|SPA}} <br> [[Antequera]]/[[Málaga]]
+|'''{{futsal-big|RUS}}
+|'''8–5''' 
+|{{futsal-big|BRA}}
+|{{futsal-big|BLR}}
+|'''7–6''' ([[Penalty shoot-out (association football)|pen]])
+|{{futsal-big|IRN}}
+|- bgcolor=#D0E7FF
+|2016<br>''[[2016 World University Futsal Championship|Details]]
+|{{flagicon|BRA}} <br> [[Goiânia]]
+|'''{{futsal-big|BRA}}
+|'''2–1'''
+|{{futsal-big|RUS}}
+|{{futsal-big|CZE}}
+|'''11-3'''
+|{{futsal-big|FRA}}
+|- 
+|2018<br>''[[2018 World University Futsal Championship|Details]]
+|{{flagicon|KAZ}} <br> [[Almaty]]
+|
+|
+|
+|
+|
+|-
+|}
+
+Women's
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan=2 width=5%|Year 
+!rowspan=2 width=12%|Host 
+| width = 1% rowspan=16| 
+!colspan=3|Final 
+| width = 1% rowspan=16| 
+!colspan=3|Third Place Match
+|-
+!width=15%|Winners
+!width=7%|Score 
+!width=15%|Runners-Up 
+!width=15%|3rd Place
+!width=7%|Score 
+!width=15%|4th Place 
+|- bgcolor=#D0E7FF
+|2008<br />{{DetailsLink|2008 World University Futsal Championships}}
+|{{flagicon|BRA}}<br />[[Vitória, Espírito Santo]]
+|{{WFutsal-big|BRA}}
+|'''11–4'''
+|{{WFutsal-big|POR}}
+|{{WFutsal-big|CHN}}
+|'''3–1'''
+|{{WFutsal-big|CRC}}
+|- 
+|2010<br />{{DetailsLink|2010 World University Futsal Championships}}
+|{{flagicon|SRB|2004}}<br />[[Novi Sad]]
+|{{WFutsal-big|BRA}}
+|{{ref|1|n/a}} 
+|{{WFutsal-big|POR}}
+|{{WFutsal-big|RUS}}
+|{{ref|1|n/a}} 
+|{{WFutsal-big|FRA}}
+|- bgcolor=#D0E7FF
+|2012<br />{{DetailsLink|2012 World University Futsal Championships}}
+|{{flagicon|POR}}<br />[[Braga]]
+|{{WFutsal-big|BRA}}
+|{{ref|1|n/a}} 
+|{{WFutsal-big|SPA}}
+|{{WFutsal-big|POR}}
+|{{ref|1|n/a}} 
+|{{WFutsal-big|RUS}}
+|- 
+|2014<br />{{DetailsLink|2014 World University Futsal Championships}}
+|{{flagicon|SPA}}<br />[[Antequera]]/[[Málaga]]
+|{{WFutsal-big|BRA}}
+|'''2–1''' 
+|{{WFutsal-big|RUS}}
+|{{WFutsal-big|RUS}}
+|'''1–0'''
+|{{WFutsal-big|POR}}
+|- bgcolor=#D0E7FF
+|2016<br />{{DetailsLink|2016 World University Futsal Championships}}
+|{{flagicon|BRA}}<br />[[Goiânia]]
+|{{WFutsal-big|BRA}}
+|'''3–1''' 
+|{{WFutsal-big|RUS}}
+|{{WFutsal-big|POR}}
+|'''6–0'''
+|{{WFutsal-big|CAN}}
+|-
+|2018<br />{{DetailsLink|2018 World University Futsal Championships}}
+|{{flagicon|KAZ}}<br />[[Almaty]]
+|
+|'''
+|
+|
+|'''
+|
+|}
+
+''{{note|1|n/a}}'' A round-robin tournament determined the final standings.
+
+=== China International Futsal Tournament ===
+CFA Futsal International Tournaments - Changshu Story
+
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan=2 width=5%|Year 
+!rowspan=2 width=12%|Host 
+| width = 1% rowspan=16| 
+!colspan=3|Final 
+| width = 1% rowspan=16| 
+!colspan=3|Third Place Match
+|-
+!width=15%|Winners
+!width=7%|Score 
+!width=15%|Runners-Up 
+!width=15%|3rd Place
+!width=7%|Score 
+!width=15%|4th Place
+|- bgcolor=#D0E7FF
+|2014<br>''[[2014 CFA Futsal International Tournament|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|THA}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|{{futsal-big|MEX}}
+|{{ref|1|n/a}}
+|{{futsal-big|MYA}}
+|- 
+|2015<br>''[[2015 CFA Futsal International Tournament|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|{{futsal-big|MYA}}
+|{{ref|1|n/a}}
+|{{futsal-big|MEX}}
+|- 
+|2016<br>''[[2016 CFA Futsal International Tournament|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|UKR}}
+|{{ref|1|n/a}}
+|{{futsal-big|VIE}}
+|{{futsal-big|CHN}}
+|{{ref|1|n/a}}
+|{{futsal-big|MEX}}
+|- 
+|2017<br>''[[2017 CFA Futsal International Tournament|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|CRO}}
+|{{ref|1|n/a}}
+|{{futsal-big|NED}}
+|{{futsal-big|VIE}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|- 
+|2018<br>''[[2018 CFA Futsal International Tournament|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|RUS}}
+|{{ref|1|n/a}}
+|{{futsal-big|VIE}}
+|{{futsal-big|CHN}}
+|{{ref|1|n/a}}
+|{{futsal-big|NZL}}
+|}
+
+''{{note|1|n/a}}'' A [[round-robin tournament]] determined the final standings.
+
+Hangzhou International Futsal Tournament Story
+
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan=2 width=5%|Year 
+!rowspan=2 width=12%|Host 
+| width = 1% rowspan=16| 
+!colspan=3|Final 
+| width = 1% rowspan=16| 
+!colspan=3|Third Place Match
+|-
+!width=15%|Winners
+!width=7%|Score 
+!width=15%|Runners-Up 
+!width=15%|3rd Place
+!width=7%|Score 
+!width=15%|4th Place
+|- bgcolor=#D0E7FF
+|2009<br>''[[2009 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|NED}}
+|{{ref|1|n/a}}
+|{{futsal-big|JPN}}
+|{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|- 
+|2010<br>''[[2010 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|BRA}}
+|{{ref|1|n/a}}
+|{{futsal-big|JPN}}
+|{{futsal-big|CHN}}
+|{{ref|1|n/a}}
+|{{futsal-big|IRN}}
+|- bgcolor=#D0E7FF
+|2011<br>''[[2011 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|BRA}}
+|{{ref|1|n/a}}
+|{{futsal-big|JPN}}
+|{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|ROU}}
+|- 
+|2012<br>''[[2012 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|ROU}}
+|{{ref|1|n/a}}
+|{{futsal-big|IRN}}
+|{{futsal-big|CHN}}
+|{{ref|1|n/a}}
+|{{futsal-big|JPN}}
+|- bgcolor=#D0E7FF
+|2013<br>''[[2013 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|RUS}}
+|{{futsal-big|NED}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|- 
+|2014<br>''[[2014 Hangzhou International Futsal|Details]]
+|{{flagicon|CHN}} <br> [[China]]
+|'''{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|CHN}}
+|{{futsal-big|VIE}}
+|{{ref|1|n/a}}
+|{{futsal-big|MYA}}
+|}
+''{{note|1|n/a}}'' A [[round-robin tournament]] determined the final standings.
+
+===Tiger's Cup/World 5's Futsal===
+{| class="wikitable" style="font-size:90%; width: 100%; text-align: center;"
+|-
+!rowspan=2 width=5%|Year 
+!rowspan=2 width=12%|Host 
+| width = 1% rowspan=16| 
+!colspan=3|Final 
+| width = 1% rowspan=16| 
+!colspan=3|Third Place Match
+|-
+!width=15%|Winners
+!width=7%|Score 
+!width=15%|Runners-Up 
+!width=15%|3rd Place
+!width=7%|Score 
+!width=15%|4th Place
+|- bgcolor=#D0E7FF
+|1997<br>''[[1997 Tiger 5's Futsal|Details]]
+|{{flagicon|SIN}} <br> [[Singapore]]
+|'''{{futsal-big|SPA}}
+|'''4–3''' ([[Overtime (sports)|a.e.t.]])
+|{{futsal-big|BRA}}
+|{{futsal-big|NED}}
+|'''4–2'''
+|{{futsal-big|ITA}}
+|- 
+|1999<br>''[[1999 Tiger 5's Futsal|Details]]
+|{{flagicon|SIN}} <br> [[Singapore]]
+|'''{{futsal-big|BRA}}
+|'''3–2'''
+|{{futsal-big|ITA}}
+|{{futsal-big|SPA}}
+|'''4–3'''
+|{{futsal-big|NED}}
+|- bgcolor=#D0E7FF
+|2001<br>''[[2001 Tiger 5's Futsal|Details]]
+|{{flagicon|SIN}} <br> [[Singapore]]
+|'''{{futsal-big|SPA}}
+|'''3–3'''  ([[Overtime (sports)|a.e.t.]])<br>'''7–6''' ([[Penalty shoot-out (association football)|p]])
+|{{futsal-big|BRA}}
+|{{futsal-big|ITA}}
+|{{ref|1|n/a}}
+|{{futsal-big|NED}}
+|- 
+|2003<br>''[[2003 KL 5's Futsal|Details]]
+|{{flagicon|MAS}} <br> [[Malaysia]]
+|'''{{futsal-big|ARG}}
+|'''3–2''' ([[Overtime (sports)|a.e.t.]])
+|{{futsal-big|BRA}}
+|{{futsal-big|IRN}}
+|{{ref|1|n/a}}
+|{{futsal-big|URU}}
+|- bgcolor=#D0E7FF
+|2008<br>''[[2008 KL 5's Futsal|Details]]
+|{{flagicon|MAS}} <br> [[Malaysia]]
+|'''{{futsal-big|BRA}}
+|'''4–0'''
+|{{futsal-big|ARG}}
+|{{futsal-big|AUS}}
+|{{ref|1|n/a}}
+|{{futsal-big|THA}}
+|}
+
+''{{note|1|n/a}}'' A [[round-robin tournament]] determined the final standings.
+
+=== Clubs ===
+* [[Intercontinental Futsal Cup]]
+* [[UEFA Futsal Cup]]
+* [[Copa Libertadores de Futsal]]
+* [[AFC Futsal Club Championship]]
+* [[CONCACAF Futsal Club Championship]]
+* [http://www.futsalzambia.com/ Futsal Club in Zambia]
+
+=== Discontinued tournaments ===
+* [[Futsal at the Pan American Games|Pan American Games]]
+* [[Futsal at the Lusophony Games|Lusophony Games]]
+
+=== Women's national teams ===
+==== International ====
+{| class="wikitable"
+|-
+!width=200|Competition
+!Year
+!width=100|Host
+!width=120|Winner [[File:Gold medal icon.svg|16px]]
+!width=120|Runner-up [[File:Silver medal icon.svg|16px]]
+!width=120|3rd [[File:Bronze medal icon.svg|16px]]
+!width=120|4th
+|-
+|rowspan=6 |[[Women's Futsal World Tournament]]
+|[[2010 Women's Futsal World Tournament|2010]]
+|[[Spain]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Portugal}}
+| colspan="2" style="text-align:center;"|{{wfutsal|Russia}} & {{wfutsal|Spain}}
+|-
+|[[2011 Women's Futsal World Tournament|2011]]
+|[[Brazil]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Spain}}
+|{{wfutsal|Portugal}}
+|{{wfutsal|Russia}}
+|-
+|[[2012 Women's Futsal World Tournament|2012]]
+|[[Portugal]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Portugal}}
+|{{wfutsal|Spain}}
+|{{wfutsal|Russia}}
+|-
+|[[2013 Women's Futsal World Tournament|2013]]
+|[[Spain]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Spain}}
+|{{wfutsal|Russia}}
+|{{wfutsal|Portugal}}
+|-
+|[[2014 Women's Futsal World Tournament|2014]]
+|[[Costa Rica]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Portugal}}
+|{{wfutsal|Spain}}
+|{{wfutsal|Costa Rica}}
+|-
+|[[2015 Women's Futsal World Tournament|2015]]
+|[[Guatemala]]
+|{{wfutsal|Brazil}}
+|{{wfutsal|Russia}}
+|{{wfutsal|Spain}}
+|{{wfutsal|Portugal}}
+|}
+
+==== Continental ====
+{| class="wikitable"
+|-
+!width=200|Continental
+!Year
+!width=100|Host
+!width=120|Winner [[File:Gold medal icon.svg|16px|link=]]
+!width=120|Runner-up [[File:Silver medal icon.svg|16px|link=]]
+!width=120|3rd [[File:Bronze medal icon.svg|16px|link=]]
+!width=120|4th
+|-
+|rowspan=2|[[AFC Women's Futsal Championship|Asia (AFC)]]
+| [[2015 AFC Women's Futsal Championship|2015]]
+| [[Malaysia]]
+| {{fsw|IRN}}
+| {{fsw|JPN}}
+| {{fsw|THA}}
+| {{fsw|MAS}}
+|-
+| [[2018 AFC Women's Futsal Championship|2018]]
+| [[Thailand]]
+| {{fsw|IRN}}
+| {{fsw|JPN}}
+| {{fsw|THA}}
+| {{fsw|VIE}}
+|- style="border-top:3px solid black;"
+|rowspan=6|[[Copa América Femenina de Futsal|South America (CONMEBOL)]]
+| [[2005 South American Women's Futsal Championship|2005]]
+| [[Brazil]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Ecuador}}
+| {{wfutsal|Argentina}}
+| {{wfutsal|Uruguay}}
+|-
+| [[2007 South American Women's Futsal Championship|2007]]
+| [[Ecuador]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Colombia}}
+| {{wfutsal|Venezuela}}
+| {{wfutsal|Uruguay}}
+|-
+| [[2009 South American Women's Futsal Championship|2009]]
+| [[Brazil]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Colombia}}
+| {{wfutsal|Venezuela}}
+| {{wfutsal|Peru}}
+|-
+| [[2011 South American Women's Futsal Championship|2011]]
+| [[Venezuela]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Argentina}}
+| {{wfutsal|Paraguay|1990}}
+| {{wfutsal|Venezuela}}
+|-
+| [[2015 South American Women's Futsal Championship|2015]]
+| [[Uruguay]]
+| {{wfutsal|Colombia}}
+| {{wfutsal|Uruguay}}
+| {{wfutsal|Chile}}
+| {{wfutsal|Argentina}}
+|-
+| [[2017 Copa América Femenina de Futsal|2017]]
+| [[Uruguay]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Colombia}}
+| {{wfutsal|Argentina}}
+| {{wfutsal|Venezuela}}
+|}
+
+== FIFUSA/AMF competitions ==
+=== Men's national teams ===
+==== International ====
+{| class="wikitable"
+|-
+!Competition
+!Year
+!Country
+!Winner [[File:Gold medal icon.svg|16px]]
+!Runner-up [[File:Silver medal icon.svg|16px]]
+!3rd [[File:Bronze medal icon.svg|16px]]
+!4th
+|-
+|rowspan=7|[[AMF Futsal World Cup|FIFUSA World Futsal Championships]]
+|[[1982 FIFUSA Futsal World Cup|1982]]
+|[[Brazil]]
+|{{futsal|Brazil|1968}}
+|{{futsal|Paraguay|1954}}
+|{{futsal|Colombia}}
+|{{futsal|Uruguay}}
+|-
+|[[1985 FIFUSA Futsal World Cup|1985]]
+|[[Spain]]
+|{{futsal|Brazil|1968}}
+|{{futsal|Spain}}
+|{{futsal|Paraguay|1954}}
+|{{futsal|Argentina}}
+|-
+|[[1988 FIFUSA Futsal World Cup|1988]]
+|[[Australia]]
+|{{futsal|Paraguay|1988}}
+|{{futsal|Brazil|1968}}
+|{{futsal|Spain}}
+|{{futsal|Portugal}}
+|-
+|[[1991 FIFUSA Futsal World Cup|1991]]
+|[[Italy]]
+|{{futsal|Portugal}}
+|{{futsal|Paraguay|1990}}
+|{{futsal|Brazil|1968}}
+|{{futsal|Bolivia}}
+|-
+|[[1994 FIFUSA World Cup|1994]]
+|[[Argentina]]
+|{{futsal|Argentina}}
+|{{futsal|Colombia}}
+|{{futsal|Uruguay}}
+|{{futsal|Brazil}}
+|-
+|[[1997 FIFUSA World Cup|1997]]
+|[[Mexico]]
+|{{futsal|Venezuela|1930}}
+|{{futsal|Uruguay}}
+|{{futsal|Brazil}}
+|{{futsal|Russia}}
+|-
+|[[2000 FIFUSA World Cup|2000]]
+|[[Bolivia]]
+|{{futsal|Colombia}}
+|{{futsal|Bolivia}}
+|{{futsal|Argentina}}
+|{{futsal|Russia}}
+|-
+|rowspan=5|[[AMF Futsal World Cup|AMF World Futsal Championships]]
+|[[2003 AMF Futsal Men's World Cup|2003]]
+|[[Paraguay]]
+|{{futsal|Paraguay|1990}}
+|{{futsal|Colombia}}
+|{{futsal|Bolivia}}
+|{{futsal|Peru}}
+|-
+|[[2007 AMF Futsal Men's World Cup|2007]]
+|[[Argentina]]
+|{{futsal|Paraguay|1990}}
+|{{futsal|Argentina}}
+|{{futsal|Colombia}}
+|{{futsal|Peru}}
+|-
+|[[2011 AMF Futsal Men's World Cup|2011]]
+|[[Colombia]]
+|{{futsal|Colombia}}
+|{{futsal|Paraguay|1990}}
+|{{futsal|Argentina}}
+|{{futsal|Russia}}
+|-
+|[[2015 AMF Futsal Men's World Cup|2015]]
+|[[Belarus]]
+|{{futsal|Colombia}}
+|{{futsal|Paraguay}}
+|{{futsal|Argentina}}
+|{{futsal|Belgium}}
+|-
+|[[2019 AMF Futsal Men's World Cup|2019]]
+|[[Argentina]]
+|
+|
+|
+|
+|- style="border-top:3px solid black;"
+|[[Futsal in World Games]]
+|[[2013 World Games|2013]]
+|[[Colombia]]
+|{{futsal|Colombia}}
+|{{futsal|Venezuela}}
+|{{futsal|Brazil}}
+|{{futsal|Argentina}}
+|}
+
+==== Continental (major) ====
+{| class="wikitable"
+|-
+!Continental
+!Year
+!Country
+!Winner [[File:Gold medal icon.svg|16px]]
+!Runner-up [[File:Silver medal icon.svg|16px]]
+!3rd [[File:Bronze medal icon.svg|16px]]
+!4th
+|-
+|rowspan=12|[[UEFS Futsal Men's Championship|Europe (UEFS)]]
+|[[1989 UEFS Futsal Men's Championship|1989]]
+| [[Spain]]
+| {{futsal|Portugal}}
+| {{futsal|Spain}}
+| {{futsal|Czechoslovakia}}
+| {{futsal|Israel}}
+|-
+|[[1990 UEFS Futsal Men's Championship|1990]]
+| [[Portugal]]
+| {{futsal|Portugal}}
+| {{futsal|Czechoslovakia}}
+| {{futsal|Spain}}
+| {{Futsal|England}}
+|-
+|[[1992 UEFS Futsal Men's Championship|1992]]
+| [[Portugal]]
+| {{futsal|Spain}}
+| {{futsal|Russia|1991}}
+| {{futsal|Portugal}}
+| {{futsal|Israel}}
+|-
+|[[1995 UEFS Futsal Men's Championship|1995]]
+| [[Morocco]]
+| {{futsal|Slovakia}}
+| {{futsal|Morocco}}
+| {{futsal|Russia}}
+| {{futsal|Czech Republic}}
+|-
+|[[1998 UEFS Futsal Men's Championship|1998]]
+| [[Slovakia]]
+| {{futsal|Russia}}
+| {{futsal|Spain}}
+| {{futsal|Slovakia}}
+| {{futsal|Belarus}}
+|-
+|[[2004 UEFS Futsal Men's Championship|2004]]
+| [[Belarus]]
+| {{futsal|Belarus}}
+| {{futsal|Czech Republic}}
+| {{futsal|Russia}}
+| {{futsal|Ukraine}}
+|-
+|[[2006 UEFS Futsal Men's Championship|2006]]
+| [[Catalonia]]
+| {{futsal|Russia}}
+| {{futsal|Catalonia}}
+| {{futsal|Czech Republic}}
+| {{futsal|Belgium}}
+|-
+|[[2008 UEFS Futsal Men's Championship|2008]]
+| [[Belgium]]
+| {{futsal|Russia}}
+| {{futsal|Czech Republic}}
+| {{futsal|Belarus}}
+| {{futsal|Belgium}}
+|-
+|[[2010 UEFS Futsal Men's Championship|2010]]
+| [[Russia]]
+| {{futsal|Russia}}
+| {{futsal|Belgium}}
+| {{futsal|Czech Republic}}
+| {{futsal|Belarus}}
+|-
+|[[2012 UEFS Futsal Men's Championship|2012]]
+| [[Belarus]]
+| {{futsal|Belgium}}
+| {{futsal|Czech Republic}}
+| {{futsal|Russia}}
+| {{futsal|Catalonia}}
+|-
+|[[2014 UEFS Futsal Men's Championship|2014]]
+| [[Czech Republic]]
+| {{futsal|Belarus}}
+| {{futsal|Belgium}}
+| {{futsal|Catalonia}}
+| {{futsal|Russia}}
+|-
+|[[2016 UEFS Futsal Men's Championship|2016]]
+| [[Russia]]
+| {{futsal|Russia}}
+| {{futsal|Italy}}
+| {{futsal|Czech Republic}}
+| {{futsal|Kazakhstan}}
+|- style="border-top:3px solid black;"
+|rowspan=12|[[Copa América de Futsal|South America]]
+|-
+| [[1965 South American Futsal Championship|1965]]
+| [[Paraguay]]
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Brazil|1960}}
+| {{Futsal|Argentina}}
+|-
+| [[1969 South American Futsal Championship|1969]]
+| [[Paraguay]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Argentina}}
+| {{Futsal|Uruguay}}
+|-
+| [[1971 South American Futsal Championship|1971]]
+| [[Brazil]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Peru}}
+|-
+| [[1973 South American Futsal Championship|1973]]
+| [[Uruguay]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Argentina}}
+|-
+| [[1975 South American Futsal Championship|1975]]
+| [[Argentina]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Argentina}}
+|-
+| [[1976 South American Futsal Championship|1976]]
+| [[Uruguay]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+|-
+| [[1977 South American Futsal Championship|1977]]
+| [[Brazil]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Colombia}}
+| {{Futsal|Uruguay}}
+|-
+| [[1979 South American Futsal Championship|1979]]
+| [[Colombia]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+| {{Futsal|Bolivia}}
+|-
+| [[1983 South American Futsal Championship|1983]]
+| [[Uruguay]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Argentina}}
+|-
+| [[1986 South American Futsal Championship|1986]]
+| [[Argentina]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1954}}
+| {{Futsal|Argentina}}
+| {{Futsal|Uruguay}}
+|-
+| [[1989 South American Futsal Championship|1989]]
+| [[Brazil]]
+| {{Futsal|Brazil|1968}}
+| {{Futsal|Paraguay|1988}}
+| {{Futsal|Uruguay}}
+| {{Futsal|Bolivia}}
+|}
+
+=== Women's national teams ===
+==== International ====
+{| class="wikitable"
+|-
+!width=200|Continental
+!Year
+!width=100|Host
+!width=120|Winner [[File:Gold medal icon.svg|16px]]
+!width=120|Runner-up [[File:Silver medal icon.svg|16px]]
+!width=120|3rd [[File:Bronze medal icon.svg|16px]]
+!width=120|4th
+|-
+|rowspan=3|[[AMF Futsal World Cup|AMF Futsal Women's World Cup]]
+|[[2008 AMF Futsal Women's World Cup|2008]]
+| [[Catalonia]]
+| {{wfutsal|Catalonia}}
+| {{wfutsal|Galicia}}
+| {{wfutsal|Colombia}}
+| {{wfutsal|Russia}}
+|-
+|[[2013 AMF Futsal Women's World Cup|2013]]
+| [[Colombia]]
+| {{wfutsal|Colombia}}
+| {{wfutsal|Venezuela}}
+| {{wfutsal|Czech Republic}}
+| {{wfutsal|Argentina}}
+|-
+|[[2017 AMF Futsal Women's World Cup|2017]]
+| [[Catalonia]]
+| {{wfutsal|Brazil}}
+| {{wfutsal|Argentina}}
+| {{wfutsal|Colombia}}
+| {{wfutsal|Paraguay}}
+|}
+
+==== Continental ====
+{| class="wikitable"
+|-
+!width=200|Continental
+!Year
+!width=100|Host
+!width=120|Winner [[File:Gold medal icon.svg|16px]]
+!width=120|Runner-up [[File:Silver medal icon.svg|16px]]
+!width=120|3rd [[File:Bronze medal icon.svg|16px]]
+!width=120|4th
+|-
+|rowspan=6|[[UEFS Futsal Women's Championship|Europe (UEFS)]]
+|[[2001 UEFS Futsal Women's Championship|2001]]
+| [[Russia]]
+| {{wfutsal|Russia}}
+| {{wfutsal|Belarus}}
+| {{wfutsal|Ukraine}}
+| {{wfutsal|Italy}}
+|-
+|[[2004 UEFS Futsal Women's Championship|2004]]
+| [[Russia]]
+| {{wfutsal|Russia}}
+| {{wfutsal|Catalonia}}
+| {{wfutsal|Ukraine}}
+| {{wfutsal|Belgium}}
+|-
+|[[2007 UEFS Futsal Women's Championship|2007]]
+| [[Czech Republic]]
+| {{wfutsal|Czech Republic}}
+| {{wfutsal|Russia}}
+| {{wfutsal|Slovakia}}
+| {{wfutsal|Ukraine}}
+|-
+|[[2009 UEFS Futsal Women's Championship|2009]]
+| [[Poland]]
+| {{wfutsal|Russia}}
+| {{wfutsal|Czech Republic}}
+| {{wfutsal|Catalonia}}
+| {{wfutsal|Poland}}
+|-
+|[[2011 UEFS Futsal Women's Championship|2011]]
+| [[Czech Republic]]
+| {{wfutsal|Czech Republic}}
+| {{wfutsal|Russia}}
+| {{wfutsal|Catalonia}}
+| {{wfutsal|France}}
+|-
+|[[2015 UEFS Futsal Women's Championship|2015]]
+| [[Catalonia]]
+| {{wfutsal|Russia}}
+| {{wfutsal|Czech Republic}}
+| {{wfutsal|Catalonia}}
+| {{wfutsal|Netherlands}}
+|}
+
+== See also ==
+{{portal|Association Football Variants}}
+* [[Futsal in Australia]]
+* [[Futsal in Brazil]]
+* [[Futsal in England]]
+* [[Futsal in Iran]]
+* [[Futsal in Italy]]
+* [[Futsal in Libya]]
+* [[Futsal in Norway]]
+* [[Futsal in Portugal]]
+* [[Futsal in Spain]]
+* [[Futsal in Sweden]]
+* [[Beach soccer]]
+* [[Street football]]
+* [[Olympic sports]]
+* [[Premier Futsal]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{sisterlinks|d=Q171401|wikt=futsal|commons=Category:Futsal|voy=no|mw=no|m=no|species=no|n=no|q=no|s=no|b=no|v=no}}
+
+{{International futsal|state=uncollapsed}}
+{{International club futsal}}
+{{Team Sport}}
+
+{{Authority control}}
+
+[[Category:Futsal| ]]
+[[Category:Association football terminology]]
+[[Category:Association football variants]]
+[[Category:Sports originating in Brazil]]
+[[Category:Team sports]]
+[[Category:Games and sports introduced in 1930]]
+[[Category:Athletic sports]]
+[[Category:Sports originating in Uruguay]]
+[[Category:Ball games]]
